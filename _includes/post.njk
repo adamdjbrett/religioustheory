@@ -19,7 +19,7 @@ layout: base.njk
   </figure>
   {% endif %}
   <header>
-    <h1 data-pagefind-meta="title">{{ title }}</h1>
+    <h1 data-pagefind-meta="title" data-pagefind-weight="10">{{ title }}</h1>
     <div class="post-meta">
       <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
       {% if author %}<span> by <a href="/author/{{ author | slugify }}/">{{ authors[author].name }}</a></span>{% endif %}

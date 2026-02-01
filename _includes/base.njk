@@ -14,7 +14,7 @@
 </head>
 <body>
   <header class="site-header">
-    <h1><a href="/" style="text-decoration: none; color: inherit;">{{ site.icon }} {{ site.title }}</a></h1>
+    <h1 data-pagefind-ignore><a href="/" style="text-decoration: none; color: inherit;">{{ site.icon }} {{ site.title }}</a></h1>
     <p>{{ site.description }}</p>
     <nav class="site-nav">
       <a href="/">Home</a>
@@ -32,14 +32,6 @@
     <heading-anchors>
       {{ content | safe }}
     </heading-anchors>
-    {% if page.filePathStem and page.filePathStem.startsWith("/pages/") %}
-    <section class="share-openly" aria-label="Share this Page">
-      <h2>Share this Page</h2>
-      {% set shareUrl = (site.url + page.url) | urlencode %}
-      {% set shareText = (title or site.title) | urlencode %}
-      <a href="https://shareopenly.org/share/?url={{ shareUrl }}&text={{ shareText }}">Share via ShareOpenly</a>
-    </section>
-    {% endif %}
   </main>
 
   <footer class="site-footer">

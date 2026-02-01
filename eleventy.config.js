@@ -129,10 +129,17 @@ export default function (eleventyConfig) {
     });
   }
 
+  // Posts collection (reverse chronological)
+  eleventyConfig.addCollection("posts", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("content/posts/**/*.md").reverse();
+  });
+
+  const getPosts = (collectionApi) => collectionApi.getFilteredByGlob("content/posts/**/*.md").reverse();
+
   // Get all unique categories
   eleventyConfig.addCollection("categories", function(collectionApi) {
     let categories = new Set();
-    collectionApi.getAll().forEach(item => {
+    getPosts(collectionApi).forEach(item => {
       if (item.data.categories) {
         item.data.categories.forEach(cat => categories.add(cat));
       }
@@ -143,7 +150,7 @@ export default function (eleventyConfig) {
   // Get all unique tags
   eleventyConfig.addCollection("tags", function(collectionApi) {
     let tags = new Set();
-    collectionApi.getAll().forEach(item => {
+    getPosts(collectionApi).forEach(item => {
       if (item.data.tags) {
         item.data.tags.forEach(tag => tags.add(tag));
       }
@@ -154,7 +161,7 @@ export default function (eleventyConfig) {
   // Get all unique authors
   eleventyConfig.addCollection("authors", function(collectionApi) {
     let authors = new Set();
-    collectionApi.getAll().forEach(item => {
+    getPosts(collectionApi).forEach(item => {
       if (item.data.author) {
         authors.add(item.data.author);
       }
@@ -162,16 +169,11 @@ export default function (eleventyConfig) {
     return Array.from(authors).sort();
   });
 
-  // Posts collection (reverse chronological)
-  eleventyConfig.addCollection("posts", function(collectionApi) {
-    return collectionApi.getFilteredByGlob("content/posts/**/*.md").reverse();
-  });
-
   // Author profiles with pagination
   eleventyConfig.addCollection("authorPages", function(collectionApi) {
     const authorsJson = readFileSync("./_data/authors.json", "utf-8");
     const authorsData = JSON.parse(authorsJson);
-    let posts = collectionApi.getFilteredByGlob("content/posts/**/*.md").reverse();
+    let posts = getPosts(collectionApi);
     let authorPages = [];
     
     Object.entries(authorsData).forEach(([key, author]) => {
