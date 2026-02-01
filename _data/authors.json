@@ -1,0 +1,14 @@
+{
+  "books": {
+    "name": "Books",
+    "bio": "Featured book reviews and previews"
+  },
+  "editors": {
+    "name": "Editors - Religious Theory",
+    "bio": "Editorial content and announcements from the Religious Theory editorial team"
+  },
+  "j-c-smith": {
+    "name": "J. C. Smith",
+    "bio": "Contributor to Religious Theory"
+  }
+}

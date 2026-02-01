@@ -1,0 +1,25 @@
+{
+  "name": "religioustheory-11ty",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Religious Theory - Eleventy static site",
+  "scripts": {
+    "start": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy && npx pagefind --site _site --glob \"**/*.html\"",
+    "convert": "node scripts/convert-wp-archive.js"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.2",
+    "@11ty/eleventy-plugin-rss": "^2.0.2",
+    "@zachleat/heading-anchors": "github:zachleat/heading-anchors",
+    "eleventy-plugin-toc": "^1.1.5",
+    "luxon": "^3.5.0",
+    "markdown-it": "^14.1.0",
+    "markdown-it-footnote": "^4.0.0"
+  },
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "pagefind": "^1.4.0",
+    "turndown": "^7.2.0"
+  }
+}

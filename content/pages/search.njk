@@ -1,0 +1,17 @@
+---
+layout: base.njk
+title: Search
+permalink: /search/
+---
+
+<h2>Search the Site</h2>
+
+<div id="search"></div>
+
+<link rel="stylesheet" href="/pagefind/pagefind-ui.css">
+<script src="/pagefind/pagefind-ui.js"></script>
+<script>
+  window.addEventListener("DOMContentLoaded", () => {
+    new PagefindUI({ element: "#search", showImages: false });
+  });
+</script>

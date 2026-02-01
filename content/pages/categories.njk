@@ -1,0 +1,48 @@
+---
+layout: base.njk
+title: Categories
+permalink: /categories/
+---
+
+<h1>Categories</h1>
+
+<p>Browse all posts organized by category.</p>
+
+<div style="margin-top: 2em;">
+
+{# Get all unique categories #}
+{% set categoriesSet = [] %}
+{% for post in collections.posts %}
+  {% if post.data.categories %}
+    {% for cat in post.data.categories %}
+      {% if cat not in categoriesSet %}
+        {% set categoriesSet = categoriesSet.concat([cat]) %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+
+{# Sort categories alphabetically #}
+{% set categoriesSorted = categoriesSet | sort %}
+
+{# Display each category #}
+{% for category in categoriesSorted %}
+  {# Get posts for this category #}
+  {% set catPosts = [] %}
+  {% for post in collections.posts %}
+    {% if post.data.categories and category in post.data.categories %}
+      {% set catPosts = catPosts.concat([post]) %}
+    {% endif %}
+  {% endfor %}
+  
+  <details>
+    <summary><h3 style="display: inline; margin: 0;">{{ category }} <small>({{ catPosts | length }} posts)</small></h3></summary>
+    <ul style="margin: 0.5em 0 0.5em 1.5em;">
+    {%- for post in catPosts | reverse -%}
+      <li><a href="{{ post.url }}">{{ post.data.title }}</a> <small>({{ post.date | readableDate }})</small></li>
+    {%- endfor -%}
+    </ul>
+  </details>
+{% endfor %}
+
+</div>

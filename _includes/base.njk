@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="{{ site.language }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if title %}{{ title }} - {% endif %}{{ site.title }}</title>
+  <meta data-pagefind-meta="title" content="{{ title or site.title }}">
+  <meta name="description" content="{{ description or site.description }}">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>{{ site.icon }}</text></svg>">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="/feed/feed.xml">
+  {% include "schema-blog.njk" %}
+  <script type="module" src="/js/heading-anchors.js"></script>
+</head>
+<body>
+  <header class="site-header">
+    <h1><a href="/" style="text-decoration: none; color: inherit;">{{ site.icon }} {{ site.title }}</a></h1>
+    <p>{{ site.description }}</p>
+    <nav class="site-nav">
+      <a href="/">Home</a>
+      <a href="/about/">About</a>
+      <a href="/blog/">Blog</a>
+      <a href="/archive/">Archive</a>
+      <a href="/search/">Search</a>
+      <a href="/categories/">Categories</a>
+      <a href="/tags/">Tags</a>
+      <a href="/authors/">Authors</a>
+    </nav>
+  </header>
+
+  <main>
+    <heading-anchors>
+      {{ content | safe }}
+    </heading-anchors>
+  </main>
+
+  <footer class="site-footer">
+    <p>&copy; Copyright &copy; The Whitestone Foundation dba Whitestone Publications 2016-{{ buildinfo.now | dateFilter("yyyy") }}. All rights reserved. For further information: <a href="mailto:editor.jcrt@gmail.com">editor.jcrt@gmail.com</a></p>
+    <p><a href="/feed/feed.xml">RSS Feed</a> | <a href="/archive/">Archive</a> | <a href="/blog/">Blog</a></p>
+  </footer>
+</body>
+</html>

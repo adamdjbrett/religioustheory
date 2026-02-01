@@ -1,0 +1,13 @@
+---
+layout: base.njk
+title: Authors
+permalink: /authors/
+---
+
+<h1>Authors</h1>
+
+<ul>
+{% for author in collections.authors %}
+  <li><a href="/author/{{ author | slugify }}/">{{ author }}</a></li>
+{% endfor %}
+</ul>

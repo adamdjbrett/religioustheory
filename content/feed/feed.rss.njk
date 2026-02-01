@@ -1,0 +1,26 @@
+---
+permalink: /feed/feed.rss
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>{{ site.title }}</title>
+    <link>{{ site.url }}/</link>
+    <description>{{ site.description }}</description>
+    <language>{{ site.language }}</language>
+    {%- for post in collections.posts | reverse | limit(20) %}
+    <item>
+      <title>{{ post.data.title }}</title>
+      <link>{{ site.url }}{{ post.url }}</link>
+      <guid>{{ site.url }}{{ post.url }}</guid>
+      <pubDate>{{ post.date.toUTCString() }}</pubDate>
+      <description><![CDATA[{{ post.templateContent }}]]></description>
+    {%- if post.data.author %}<author>{{ post.data.author }}</author>{% endif %}
+      {%- if post.data.categories %}
+        {%- for category in post.data.categories %}<category>{{ category }}</category>{% endfor %}
+      {%- endif %}
+    </item>
+    {%- endfor %}
+  </channel>
+</rss>

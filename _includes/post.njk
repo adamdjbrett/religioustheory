@@ -1,0 +1,59 @@
+---
+layout: base.njk
+---
+
+{% include "schema-breadcrumb.njk" %}
+{% include "schema-blog-post.njk" %}
+
+<nav class="breadcrumbs">
+  {%- for crumb in page.date | breadcrumbs(title, site) -%}
+    {% if crumb.url %}<a href="{{ crumb.url }}">{{ crumb.text }}</a>{% else %}<span>{{ crumb.text }}</span>{% endif %}
+    {%- if not loop.last %} / {% endif -%}
+  {%- endfor -%}
+</nav>
+
+<article>
+  <header>
+    <h1 data-pagefind-meta="title">{{ title }}</h1>
+    <div class="post-meta">
+      <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
+      {% if author %}<span> by <a href="/author/{{ author | slugify }}/">{{ authors[author].name }}</a></span>{% endif %}
+    </div>
+    {% if categories %}
+    <div class="categories">
+      <strong>Categories:</strong>
+      {% for category in categories %}
+        <a href="/category/{{ category | slugify }}/">{{ category }}</a>
+      {% endfor %}
+    </div>
+    {% endif %}
+    {% if tags %}
+    <div class="tags">
+      <strong>Tags:</strong>
+      {% for tag in tags %}
+        <a href="/tag/{{ tag | slugify }}/">{{ tag }}</a>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </header>
+
+  <div class="post-content">
+    {% set toc = content | toc %}
+    {% if toc and "<a" in toc %}
+    <aside class="post-toc" aria-label="Table of contents">
+      <h2>Contents</h2>
+      {{ toc | safe }}
+    </aside>
+    {% endif %}
+    {{ content | safe }}
+  </div>
+
+  {% set previousPost = collections.posts | getPreviousCollectionItem(page) %}
+  {% set nextPost = collections.posts | getNextCollectionItem(page) %}
+  {% if previousPost or nextPost %}
+  <nav class="pagination" aria-label="Post navigation">
+    {% if previousPost %}<a href="{{ previousPost.url }}">← Back</a>{% else %}<span></span>{% endif %}
+    {% if nextPost %}<a href="{{ nextPost.url }}">Forward →</a>{% else %}<span></span>{% endif %}
+  </nav>
+  {% endif %}
+</article>

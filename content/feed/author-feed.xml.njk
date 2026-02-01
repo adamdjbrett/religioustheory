@@ -1,0 +1,34 @@
+---
+pagination:
+  data: collections.authors
+  size: 1
+  alias: author
+permalink: /feed/author-{{ author | slugify }}.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>{{ site.title }} - {{ author }}</title>
+  <subtitle>Posts by {{ author }}</subtitle>
+  <link href="{{ site.url }}/feed/author-{{ author | slugify }}.xml" rel="self"/>
+  <link href="{{ site.url }}/author/{{ author | slugify }}/"/>
+  <id>{{ site.url }}/author/{{ author | slugify }}/</id>
+  <author>
+    <name>{{ author }}</name>
+  </author>
+  {%- set authorPosts = collections.posts | filterByAuthor(author) | reverse | limit(20) %}
+  {%- if authorPosts.length > 0 %}
+  <updated>{{ authorPosts[0].date | isoDate }}</updated>
+  {%- for post in authorPosts %}
+  <entry>
+    <title>{{ post.data.title }}</title>
+    <link href="{{ site.url }}{{ post.url }}"/>
+    <updated>{{ post.date | isoDate }}</updated>
+    <id>{{ site.url }}{{ post.url }}</id>
+    <summary>{{ post.data.description or "" }}</summary>
+    <author><name>{{ post.data.author }}</name></author>
+    <content type="html">{{ post.templateContent }}</content>
+  </entry>
+  {%- endfor %}
+  {%- endif %}
+</feed>

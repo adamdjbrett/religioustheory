@@ -1,0 +1,81 @@
+---
+layout: base.njk
+title: Tags
+permalink: /tags/
+---
+
+<h1>Tags</h1>
+
+<p>Browse all posts organized by tag, grouped alphabetically.</p>
+
+<!-- DEBUG: Total posts = {{ collections.posts | length }}, First post has categories = {{ collections.posts[0].data.categories | length if collections.posts[0].data.categories }} -->
+
+<div style="margin-top: 2em;">
+
+{% set alphabet = ['0-9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'] %}
+
+{# Get all unique tags #}
+{% set allTags = [] %}
+{% for post in collections.posts %}
+  {% if post.data.categories %}
+    {% for tag in post.data.categories %}
+      {% set tagTrimmed = tag | trim %}
+      {% if tagTrimmed and tagTrimmed not in ['posts', 'all'] and tagTrimmed not in allTags %}
+        {% set allTags = allTags.concat([tagTrimmed]) %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+
+<!-- DEBUG: Collected tags count = {{ allTags | length }} -->
+
+{# Sort tags alphabetically #}
+{% set allTagsSorted = allTags | sort %}
+
+{# Display tags by letter group #}
+{% for letter in alphabet %}
+  {# Collect tags starting with this letter #}
+  {% set tagsInLetter = [] %}
+  {% for tag in allTagsSorted %}
+    {% set firstChar = tag[0] | upper %}
+    {% if letter == '0-9' %}
+      {% if firstChar >= '0' and firstChar <= '9' %}
+        {% set tagsInLetter = tagsInLetter.concat([tag]) %}
+      {% endif %}
+    {% elif firstChar == letter %}
+      {% set tagsInLetter = tagsInLetter.concat([tag]) %}
+    {% endif %}
+  {% endfor %}
+  
+  <!-- DEBUG: Letter={{ letter }}, Count in letter={{ tagsInLetter | length }} -->
+  
+  {# Display this letter group if it has tags #}
+  {% if tagsInLetter | length > 0 %}
+    <details>
+      <summary><h2 style="display: inline; margin: 0;">{{ letter }} ({{ tagsInLetter | length }} tags)</h2></summary>
+      
+      <div style="margin: 1em 0 1em 1.5em;">
+      {% for tag in tagsInLetter %}
+        {# Get posts for this tag #}
+        {% set tagPosts = [] %}
+        {% for post in collections.posts %}
+          {% if post.data.categories and tag in post.data.categories %}
+            {% set tagPosts = tagPosts.concat([post]) %}
+          {% endif %}
+        {% endfor %}
+        
+        <details>
+          <summary><strong>{{ tag }}</strong> <small>({{ tagPosts | length }} posts)</small></summary>
+          <ul style="margin: 0.5em 0 0.5em 2em;">
+          {%- for post in tagPosts | reverse -%}
+            <li><a href="{{ post.url }}">{{ post.data.title }}</a> <small>({{ post.date | readableDate }})</small></li>
+          {%- endfor -%}
+          </ul>
+        </details>
+      {% endfor %}
+      </div>
+    </details>
+  {% endif %}
+{% endfor %}
+
+</div>
