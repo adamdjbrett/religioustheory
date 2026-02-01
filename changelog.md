@@ -101,3 +101,25 @@ If you'd like, I can proceed to apply the targeted fix in place and rebuild now.
 ## Notes / blockers
 
 - These changes were applied in `religioustheory-11ty`. You said not to move them into `religioustheory` yet.
+
+# Changelog — 2026-02-01 (religioustheory)
+
+## Summary of work (today) ✅
+
+- **Added post hero images** by importing `single-post-image` URLs from `religioustheory-content` into `image:` front matter and rendering above post titles.
+- **Added ShareOpenly links** for posts, including a ShareOpenly section after post content.
+- **Improved Pagefind relevance** by weighting post titles and ignoring the site header `h1`.
+- **Faster builds**: production builds avoid redundant Pagefind runs; dev builds use `--incremental`.
+- **Reduced collection overhead** by reusing the posts collection helper in categories/tags/authors/authorPages.
+
+## Files created / modified today
+
+- Modified: `religioustheory/content/posts/**/*.md` (added `image:` front matter)
+- Modified: `religioustheory/_includes/post.njk` (hero image, ShareOpenly, title weighting)
+- Modified: `religioustheory/_includes/base.njk` (ignore header in Pagefind)
+- Modified: `religioustheory/eleventy.config.js` (urlencode filter, build optimizations, collection reuse)
+- Modified: `religioustheory/package.json` (production env for build, incremental dev)
+
+## Notes / blockers
+
+- 13 posts referenced in `religioustheory-content` have no matching markdown file under `religioustheory/content/posts` (listed in the session notes). If those slugs exist under different filenames, we can remap and add images.
