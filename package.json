@@ -4,8 +4,8 @@
   "type": "module",
   "description": "Religious Theory - Eleventy static site",
   "scripts": {
-    "start": "npx @11ty/eleventy --serve",
-    "build": "npx @11ty/eleventy && npx pagefind --site _site --glob \"**/*.html\"",
+    "start": "npx @11ty/eleventy --serve --incremental",
+    "build": "ELEVENTY_ENV=production npx @11ty/eleventy && npx pagefind --site _site --glob \"**/*.html\"",
     "convert": "node scripts/convert-wp-archive.js"
   },
   "dependencies": {

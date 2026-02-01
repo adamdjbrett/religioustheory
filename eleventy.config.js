@@ -7,6 +7,7 @@ import { readFileSync } from "fs";
 import { execSync } from "node:child_process";
 
 export default function (eleventyConfig) {
+  const isProduction = process.env.ELEVENTY_ENV === "production";
   // Add RSS plugin
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginTOC, {
@@ -76,6 +77,10 @@ export default function (eleventyConfig) {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(format);
   });
 
+  eleventyConfig.addFilter("urlencode", (value) => {
+    return encodeURIComponent(value);
+  });
+
   // Limit filter
   eleventyConfig.addFilter("limit", (array, limit) => {
     return array.slice(0, limit);
@@ -115,12 +120,14 @@ export default function (eleventyConfig) {
     ];
   });
 
-  // Run Pagefind after each build so /search works in --serve
-  eleventyConfig.on("afterBuild", () => {
-    execSync('npx pagefind --site _site --glob "**/*.html"', {
-      stdio: "inherit",
+  // Run Pagefind after each build so /search works in --serve (skip in production)
+  if (!isProduction) {
+    eleventyConfig.on("afterBuild", () => {
+      execSync('npx pagefind --site _site --glob "**/*.html"', {
+        stdio: "inherit",
+      });
     });
-  });
+  }
 
   // Get all unique categories
   eleventyConfig.addCollection("categories", function(collectionApi) {

@@ -51,6 +51,12 @@ layout: base.njk
     </aside>
     {% endif %}
     {{ content | safe }}
+    <section class="share-openly" aria-label="Share this Post">
+      <h2>Share this Post</h2>
+      {% set shareUrl = (site.url + page.url) | urlencode %}
+      {% set shareText = (title or site.title) | urlencode %}
+      <a href="https://shareopenly.org/share/?url={{ shareUrl }}&text={{ shareText }}">Share via ShareOpenly</a>
+    </section>
   </div>
 
   {% set previousPost = collections.posts | getPreviousCollectionItem(page) %}
