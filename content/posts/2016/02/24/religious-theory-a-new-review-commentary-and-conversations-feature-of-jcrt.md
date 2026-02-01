@@ -3,6 +3,7 @@ title: "Religious Theory – A New Review, Commentary, and Conversations Feature
 date: 2016-02-24T00:08:00+00:00
 author: editors
 permalink: /2016/02/24/religious-theory-a-new-review-commentary-and-conversations-feature-of-jcrt/
+image: "/images/2016/02/adam-1.jpg"
 categories:
   - "Announcements"
   - "Psychoanalysis"

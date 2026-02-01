@@ -3,6 +3,7 @@ title: "“Progressive Neoliberalism” – Symbolic Capitalism And The Global R
 date: 2020-07-05T20:19:28+00:00
 author: editors
 permalink: /2020/07/05/progressive-neoliberalism-symbolic-capitalism-and-the-global-reproduction-of-the-precariat-interview-with-carl-raschke/
+image: "/images/2020/07/IMG_6855.jpeg"
 categories:
   - "Interviews"
 ---

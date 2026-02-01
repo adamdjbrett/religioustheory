@@ -3,6 +3,7 @@ title: "The Religious Significance Of Miracles – Why Hume’s Critique Is Supe
 date: 2020-07-22T02:21:01+00:00
 author: editors
 permalink: /2020/07/22/the-religious-significance-of-miracles-why-humes-critique-is-superfluous-part-2-alberto-urquidez/
+image: "/images/2020/07/Allan_Ramsay_-_David_Hume_1711_-_1776._Historian_and_philosopher_-_Google_Art_Project.jpg"
 categories:
   - "Philosophy of Religion"
   - "Reviews"

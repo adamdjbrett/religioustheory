@@ -3,6 +3,7 @@ title: "God And Language, Lecture 6 (Johannes Zachhuber)"
 date: 2019-04-02T04:06:03+00:00
 author: editors
 permalink: /2019/04/02/god-and-language-lecture-6-johannes-zachhuber/
+image: "/images/2019/04/Ludwig-Wittgenstein.jpg"
 categories:
   - "Theology"
   - "Philosophy of Religion"

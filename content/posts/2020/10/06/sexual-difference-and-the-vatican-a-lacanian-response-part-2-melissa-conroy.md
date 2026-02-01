@@ -3,6 +3,7 @@ title: "Sexual Difference And The Vatican – A Lacanian Response, Part 2 (Melis
 date: 2020-10-06T18:43:03+00:00
 author: editors
 permalink: /2020/10/06/sexual-difference-and-the-vatican-a-lacanian-response-part-2-melissa-conroy/
+image: "/images/2020/10/Jaques_Lacan.jpg"
 categories:
   - "Psychology of Religion"
   - "Sexuality and Religion"

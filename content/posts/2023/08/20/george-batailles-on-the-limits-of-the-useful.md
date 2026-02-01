@@ -3,6 +3,7 @@ title: "George Batailles On Ethnographic Surrealism And “The Limits Of The Use
 date: 2023-08-20T04:30:04+00:00
 author: editors
 permalink: /2023/08/20/george-batailles-on-the-limits-of-the-useful/
+image: "/images/2023/08/Joan_Miro_-_Dona_i_ocell_2-1000x642.jpg"
 categories:
   - "Reviews"
   - "Uncategorized"

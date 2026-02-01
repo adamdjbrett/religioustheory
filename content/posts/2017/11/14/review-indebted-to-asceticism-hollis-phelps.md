@@ -3,6 +3,7 @@ title: "Review – Indebted to Asceticism (Hollis Phelps)"
 date: 2017-11-14T09:50:55+00:00
 author: Books
 permalink: /2017/11/14/review-indebted-to-asceticism-hollis-phelps/
+image: "/images/2017/11/elettra-stimilli.jpg"
 categories:
   - "Reviews"
 ---

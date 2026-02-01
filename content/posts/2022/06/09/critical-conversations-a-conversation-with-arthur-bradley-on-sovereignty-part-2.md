@@ -3,6 +3,7 @@ title: "Critical Conversations – A Conversation With Arthur Bradley On Soverei
 date: 2022-06-09T19:27:23+00:00
 author: editors
 permalink: /2022/06/09/critical-conversations-a-conversation-with-arthur-bradley-on-sovereignty-part-2/
+image: "/images/2022/06/Aboriginal_Sovereignty_-_panoramio-1210x642.jpg"
 categories:
   - "Critical Conversations"
   - "Political Theology"

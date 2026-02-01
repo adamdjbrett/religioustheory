@@ -3,6 +3,7 @@ title: "Newest Titles For Review – Freud, Nussbaum, Angst, The Crucified God, 
 date: 2017-01-27T22:22:57+00:00
 author: editors
 permalink: /2017/01/27/newest-titles-for-review-freud-nussbaum-angst-the-crucified-god-etc/
+image: "/images/2017/01/Martha-Nussbaum.jpg"
 categories:
   - "Uncategorized"
   - "Mythology"

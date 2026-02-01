@@ -3,6 +3,7 @@ title: "Thinking About God In A Pluralistic World – The Challenge of Modern Th
 date: 2018-05-12T16:22:51+00:00
 author: editors
 permalink: /2018/05/12/thinking-about-god-in-a-pluralistic-world-the-challenge-of-modern-theology-lecture-1-johannes-zuchaber/
+image: "/images/2018/05/Christian-mosaic.jpg"
 categories:
   - "Theology"
   - "Psychoanalysis"

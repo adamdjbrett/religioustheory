@@ -3,6 +3,7 @@ title: "The Dangers Of Dealing With Derrida – Revisiting the Caputo-Hägglund 
 date: 2018-06-26T01:40:12+00:00
 author: editors
 permalink: /2018/06/26/the-dangers-of-dealing-with-derrida-revisiting-the-caputo-hagglund-debate-on-the-religious-reading-of-deconstruction-part-1-neal-deroo/
+image: "/images/2018/06/Jacques-Derrida.jpg"
 categories:
   - "Philosophy of Religion"
   - "Theology"

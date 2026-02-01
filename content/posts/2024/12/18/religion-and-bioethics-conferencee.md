@@ -3,6 +3,7 @@ title: "Religion and Bioethics (Conferencee)"
 date: 2024-12-18T18:23:13+00:00
 author: editors
 permalink: /2024/12/18/religion-and-bioethics-conferencee/
+image: "/images/2024/09/Human_genome.png"
 categories:
   - "Conferences"
   - "Announcements"

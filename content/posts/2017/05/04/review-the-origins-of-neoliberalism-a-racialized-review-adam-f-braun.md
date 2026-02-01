@@ -3,6 +3,7 @@ title: "Review – The Origins of Neoliberalism: A Racialized Review (Adam F. Br
 date: 2017-05-04T13:00:57+00:00
 author: Books
 permalink: /2017/05/04/review-the-origins-of-neoliberalism-a-racialized-review-adam-f-braun/
+image: "/images/2017/05/origins.jpg"
 categories:
   - "Reviews"
   - "Philosophy of Religion"

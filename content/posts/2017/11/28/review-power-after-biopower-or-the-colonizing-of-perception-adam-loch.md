@@ -3,6 +3,7 @@ title: "Review – Power After Biopower, Or The Colonizing Of Perception (Adam L
 date: 2017-11-28T14:09:56+00:00
 author: editors
 permalink: /2017/11/28/review-power-after-biopower-or-the-colonizing-of-perception-adam-loch/
+image: "/images/2017/11/PicassoGuernica.jpg"
 categories:
   - "Reviews"
 ---

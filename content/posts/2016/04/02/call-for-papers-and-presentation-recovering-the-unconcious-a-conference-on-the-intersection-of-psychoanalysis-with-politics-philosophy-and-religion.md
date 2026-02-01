@@ -3,6 +3,7 @@ title: "Recovering the Unconscious – A Conference on the Intersection of Psych
 date: 2016-04-02T03:43:51+00:00
 author: editors
 permalink: /2016/04/02/call-for-papers-and-presentation-recovering-the-unconcious-a-conference-on-the-intersection-of-psychoanalysis-with-politics-philosophy-and-religion/
+image: "/images/2016/04/Freud-and-clutter.jpg"
 categories:
   - "Conferences"
   - "Announcements"

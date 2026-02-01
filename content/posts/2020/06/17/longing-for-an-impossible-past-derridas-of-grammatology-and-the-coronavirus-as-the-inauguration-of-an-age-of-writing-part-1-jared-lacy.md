@@ -3,6 +3,7 @@ title: "Longing For An Impossible Past – Derrida’s Of Grammatology And The C
 date: 2020-06-17T14:40:58+00:00
 author: editors
 permalink: /2020/06/17/longing-for-an-impossible-past-derridas-of-grammatology-and-the-coronavirus-as-the-inauguration-of-an-age-of-writing-part-1-jared-lacy/
+image: "/images/2020/06/Hieroglyphics_in_an_Egyptian_temple.jpg"
 categories:
   - "Higher Education"
   - "Philosophy"

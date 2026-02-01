@@ -3,6 +3,7 @@ title: "The Kingdom, The Power, The Glory, And The Tawdry – Media And The Undo
 date: 2017-07-04T20:51:08+00:00
 author: editors
 permalink: /2017/07/04/the-kingdom-the-power-the-glory-and-the-tawdry-media-and-the-undoing-of-the-demos-part-1-carl-raschke/
+image: "/images/2017/07/IMG_1588.jpg"
 categories:
   - "Political Economy"
   - "Political Theory"

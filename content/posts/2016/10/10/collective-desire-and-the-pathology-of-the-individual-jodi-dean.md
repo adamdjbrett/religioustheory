@@ -3,6 +3,7 @@ title: "Collective Desire and the Pathology of the Individual, Part 1 (Jodi Dean
 date: 2016-10-10T09:56:45+00:00
 author: editors
 permalink: /2016/10/10/collective-desire-and-the-pathology-of-the-individual-jodi-dean/
+image: "/images/2016/10/robotics.jpg"
 categories:
   - "Critical Theory"
   - "Reviews"

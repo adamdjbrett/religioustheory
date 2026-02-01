@@ -3,6 +3,7 @@ title: "“The Reluctant Fundamentalist” And The Inhospitable State – Abraha
 date: 2020-04-01T03:58:31+00:00
 author: editors
 permalink: /2020/04/01/the-reluctant-fundamentalist-and-the-inhospitable-state-abrahamic-hospitality-and-the-limits-of-multiculturalism-emily-mcavan/
+image: "/images/2020/04/Eisa_shikawi.jpg"
 categories:
   - "Religion and Literature"
 ---

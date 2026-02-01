@@ -3,6 +3,7 @@ title: "The Bell Jar’s New Look – Sylvia Plath, Simone De Beauvoir, And The 
 date: 2017-03-01T00:16:30+00:00
 author: editors
 permalink: /2017/03/01/the-bell-jars-new-look-sylvia-plath-simone-de-beauvoir-and-the-visual-representation-of-feminist-discourse-madeline-yonker/
+image: "/images/2017/03/Bell-Jar-cover.jpg"
 categories:
   - "Feminist Theory"
 ---

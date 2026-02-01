@@ -3,6 +3,7 @@ title: "Religious Faith In Pursuit of Environmental Justice (Chris Durante)"
 date: 2024-07-25T23:59:15+00:00
 author: J.C. Smith
 permalink: /2024/07/25/religious-faith-in-pursuit-of-environmental-justice-chris-durante/
+image: "/images/2024/09/2018-09-06_riseclimate-421.jpg"
 categories:
   - "Environmental Ethics"
 ---

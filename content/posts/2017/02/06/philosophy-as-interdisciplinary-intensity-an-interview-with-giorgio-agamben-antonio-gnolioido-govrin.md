@@ -3,6 +3,7 @@ title: "Philosophy As Interdisciplinary Intensity – An Interview With Giorgio 
 date: 2017-02-06T18:07:41+00:00
 author: editors
 permalink: /2017/02/06/philosophy-as-interdisciplinary-intensity-an-interview-with-giorgio-agamben-antonio-gnolioido-govrin/
+image: "/images/2017/02/intensity.jpg"
 categories:
   - "Philosophy"
   - "Philosophy of Religion"

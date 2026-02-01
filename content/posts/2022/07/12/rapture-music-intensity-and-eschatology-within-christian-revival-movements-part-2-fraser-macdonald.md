@@ -3,6 +3,7 @@ title: "Rapture Music – Intensity And Eschatology Within Christian Revival Mov
 date: 2022-07-12T02:50:01+00:00
 author: editors
 permalink: /2022/07/12/rapture-music-intensity-and-eschatology-within-christian-revival-movements-part-2-fraser-macdonald/
+image: "/images/2022/08/800px-Haitian_vodou_altar_to_Petwo_Rada_and_Gede_spirits_November_5_2010..jpg"
 categories:
   - "Anthropology of Religion"
   - "Art Theory"

@@ -3,6 +3,7 @@ title: "Review – Theologies of the Boss (James Cochran)"
 date: 2017-03-02T08:00:29+00:00
 author: Books
 permalink: /2017/03/02/review/
+image: "/images/2017/03/young-bruce.jpg"
 categories:
   - "Reviews"
 ---

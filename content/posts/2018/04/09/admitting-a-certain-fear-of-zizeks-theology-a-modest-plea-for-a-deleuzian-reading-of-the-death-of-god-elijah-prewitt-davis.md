@@ -3,6 +3,7 @@ title: "Admitting A Certain Fear of Zizek’s Theology – A Modest Plea For A D
 date: 2018-04-09T14:13:22+00:00
 author: editors
 permalink: /2018/04/09/admitting-a-certain-fear-of-zizeks-theology-a-modest-plea-for-a-deleuzian-reading-of-the-death-of-god-elijah-prewitt-davis/
+image: "/images/2018/04/horror.jpg"
 categories:
   - "Philosophy of Religion"
   - "Theology"

@@ -3,6 +3,7 @@ title: "Religious Studies – The Final Colonization Of American Indians, Part 2
 date: 2020-06-09T02:47:11+00:00
 author: editors
 permalink: /2020/06/09/religious-studies-the-final-colonization-of-american-indians-part-1-tink-tinker-wazhazhe-udsethe-2/
+image: "/images/2020/06/Shonka_Sabe.jpg"
 categories:
   - "Native American Religions"
 ---

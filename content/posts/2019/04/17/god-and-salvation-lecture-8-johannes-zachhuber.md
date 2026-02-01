@@ -3,6 +3,7 @@ title: "God And Salvation, Lecture 8 (Johannes Zachhuber)"
 date: 2019-04-17T02:32:33+00:00
 author: editors
 permalink: /2019/04/17/god-and-salvation-lecture-8-johannes-zachhuber/
+image: "/images/2019/04/Gauguin-christ-in-garden.jpg"
 categories:
   - "Theology"
   - "Psychology of Religion"

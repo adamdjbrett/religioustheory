@@ -3,6 +3,7 @@ title: "The Semiotics of the Unconscious in Gilles Deleuze and Roland Barthes, P
 date: 2016-12-19T11:35:39+00:00
 author: editors
 permalink: /2016/12/19/the-semiotics-of-the-unconscious-in-gilles-deleuze-and-roland-barthes-roger-green/
+image: "/images/2016/12/jnnocence1094.jpg"
 categories:
   - "Philosophy"
   - "Reviews"

@@ -3,6 +3,7 @@ title: "Review – Performance Apophatics (John Matthew Allison)"
 date: 2019-02-07T03:27:46+00:00
 author: editors
 permalink: /2019/02/07/review-performance-apophatics-john-matthew-allison/
+image: "/images/2019/02/55c1056e-0b10-4b38-9128-b51fd8fbb1e3.jpg"
 categories:
   - "Performance Studies"
   - "Theology"

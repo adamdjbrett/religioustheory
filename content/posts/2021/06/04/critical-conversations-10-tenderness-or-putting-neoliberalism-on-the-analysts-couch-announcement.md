@@ -3,6 +3,7 @@ title: "Critical Conversations 10 – “Tenderness,” Or Putting Neoliberalism
 date: 2021-06-04T17:12:57+00:00
 author: editors
 permalink: /2021/06/04/critical-conversations-10-tenderness-or-putting-neoliberalism-on-the-analysts-couch-announcement/
+image: "/images/2021/06/The_Kiss_Klimt-1.jpg"
 categories:
   - "Announcements"
   - "Psychoanalysis"

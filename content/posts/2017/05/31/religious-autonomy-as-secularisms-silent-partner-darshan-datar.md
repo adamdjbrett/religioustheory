@@ -3,6 +3,7 @@ title: "Religious Autonomy As Secularism’s Silent Partner (Darshan Datar)"
 date: 2017-05-31T04:39:51+00:00
 author: editors
 permalink: /2017/05/31/religious-autonomy-as-secularisms-silent-partner-darshan-datar/
+image: "/images/2017/05/IMG_1444.jpg"
 categories:
   - "Political Theology"
   - "Political Theory"

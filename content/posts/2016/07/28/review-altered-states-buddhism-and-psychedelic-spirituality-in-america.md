@@ -3,6 +3,7 @@ title: "Review – Altered States: Buddhism and Psychedelic Spirituality in Amer
 date: 2016-07-28T08:00:53+00:00
 author: Books
 permalink: /2016/07/28/review-altered-states-buddhism-and-psychedelic-spirituality-in-america/
+image: "/images/2016/07/psychedelic-therapy.jpg"
 categories:
   - "Reviews"
 ---

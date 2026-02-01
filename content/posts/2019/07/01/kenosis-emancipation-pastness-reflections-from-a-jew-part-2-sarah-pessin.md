@@ -3,6 +3,7 @@ title: "Kenosis, Emancipation, Pastness – Reflections From A Jew, Part 2 (Sara
 date: 2019-07-01T21:09:48+00:00
 author: editors
 permalink: /2019/07/01/kenosis-emancipation-pastness-reflections-from-a-jew-part-2-sarah-pessin/
+image: "/images/2019/07/1599px-Jewish_Star_Star_of_David_6002048043.jpg"
 categories:
   - "Interfaith Conversations"
 ---

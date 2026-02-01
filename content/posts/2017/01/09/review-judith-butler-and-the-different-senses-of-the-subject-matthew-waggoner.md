@@ -3,6 +3,7 @@ title: "Review – Judith Butler And The Different “Senses” Of The Subject (
 date: 2017-01-09T08:44:06+00:00
 author: editors
 permalink: /2017/01/09/review-judith-butler-and-the-different-senses-of-the-subject-matthew-waggoner/
+image: "/images/2017/01/20897035259_73d12d6fb3_b.jpg"
 categories:
   - "Reviews"
 ---

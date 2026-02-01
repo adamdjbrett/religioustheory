@@ -3,6 +3,7 @@ title: "Revolutionary Love – Kierkegaard’s Gift Economy As A Religious Corre
 date: 2020-05-23T18:38:10+00:00
 author: editors
 permalink: /2020/05/23/revolutionary-love-kierkegaards-gift-economy-as-a-religious-corrective-to-the-leveling-of-the-public-sphere-part-2-andrew-ball/
+image: "/images/2020/05/IMG_6506.jpeg"
 categories:
   - "Philosophical Theology"
   - "Philosophy of Religion"

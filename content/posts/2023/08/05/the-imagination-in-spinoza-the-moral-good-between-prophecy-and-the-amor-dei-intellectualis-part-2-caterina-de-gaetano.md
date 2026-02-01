@@ -3,6 +3,7 @@ title: "The Imagination In Spinoza – The Moral Good Between Prophecy And The A
 date: 2023-08-05T16:37:27+00:00
 author: editors
 permalink: /2023/08/05/the-imagination-in-spinoza-the-moral-good-between-prophecy-and-the-amor-dei-intellectualis-part-2-caterina-de-gaetano/
+image: "/images/2023/08/Screenshot-2023-08-11-at-11.35.37-AM.png"
 categories:
   - "Philosophy of Religion"
   - "Religious Studies"

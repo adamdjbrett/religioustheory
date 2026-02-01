@@ -3,6 +3,7 @@ title: "Religion And Mental Health – The Therapuetic Value Of The Teachings of
 date: 2018-10-09T01:23:34+00:00
 author: editors
 permalink: /2018/10/09/religion-and-mental-health-the-therapuetic-value-of-the-teachings-of-jesus-part-2-thomas-roberts-and-delbert-hayden/
+image: "/images/2018/10/entry_of_jesus.jpg"
 categories:
   - "Psychology of Religion"
   - "Theology"

@@ -3,6 +3,7 @@ title: "Theodicy of Money – The Scene and Subject of Forgiveness (Timothy Sned
 date: 2016-05-18T20:23:24+00:00
 author: editors
 permalink: /2016/05/18/theodicy-of-money-the-scene-and-subject-of-forgiveness/
+image: "/images/2016/05/Mammon_and_His_Slave.jpg"
 categories:
   - "Religion and Economics"
   - "Political Theology"

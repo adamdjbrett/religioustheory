@@ -3,6 +3,7 @@ title: "Review – François Laruelle’s General Theory of Victims (John Matthe
 date: 2016-11-17T08:00:18+00:00
 author: Books
 permalink: /2016/11/17/review-francois-laruelles-general-theory-of-victims-john-matthew-allison/
+image: "/images/2016/11/middle-passage.jpg"
 categories:
   - "Reviews"
   - "World Religions"

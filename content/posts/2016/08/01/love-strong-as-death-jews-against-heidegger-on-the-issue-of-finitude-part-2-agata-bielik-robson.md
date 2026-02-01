@@ -3,6 +3,7 @@ title: "Love Strong as Death – Jews against Heidegger, On the Issue of Finitud
 date: 2016-08-01T05:27:14+00:00
 author: editors
 permalink: /2016/08/01/love-strong-as-death-jews-against-heidegger-on-the-issue-of-finitude-part-2-agata-bielik-robson/
+image: "/images/2016/07/transcendence.jpg"
 categories:
   - "Philosophy of Religion"
   - "Theology"

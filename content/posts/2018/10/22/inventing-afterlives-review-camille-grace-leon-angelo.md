@@ -3,6 +3,7 @@ title: "Inventing Afterlives – Review (Camille Grace Leon Angelo)"
 date: 2018-10-22T13:31:58+00:00
 author: editors
 permalink: /2018/10/22/inventing-afterlives-review-camille-grace-leon-angelo/
+image: "/images/2018/10/Anna_Sahlste%CC%81n_-_Passage-1.jpg"
 categories:
   - "Reviews"
   - "Critical Theory"

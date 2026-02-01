@@ -3,6 +3,7 @@ title: "Jesus’ Ghost – Derrida, Christianity, and “Hauntology”, Part 2"
 date: 2016-05-06T21:40:13+00:00
 author: editors
 permalink: /2016/05/06/jesus-ghost-derrida-christianity-and-hauntology-part-2/
+image: "/images/2016/05/California-ghost-town.jpg"
 categories:
   - "Book Previews and Prospectuses"
   - "Uncategorized"

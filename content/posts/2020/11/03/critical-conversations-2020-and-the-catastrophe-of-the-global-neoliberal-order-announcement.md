@@ -3,6 +3,7 @@ title: "Critical Conversations – 2020 And The Catastrophe Of The Global Neolib
 date: 2020-11-03T02:30:54+00:00
 author: editors
 permalink: /2020/11/03/critical-conversations-2020-and-the-catastrophe-of-the-global-neoliberal-order-announcement/
+image: "/images/2020/11/Crisis-City.jpeg"
 categories:
   - "Announcements"
   - "Political Philosophy"

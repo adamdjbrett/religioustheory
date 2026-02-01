@@ -3,6 +3,7 @@ title: "Economic Theology And The Indebtedness Of Everyday Life (Philip Goodchil
 date: 2021-05-31T03:33:35+00:00
 author: editors
 permalink: /2021/05/31/economic-theology-and-the-indebtedness-of-everyday-life-philip-goodchild-and-devin-singh/
+image: "/images/2021/06/bancnotes.png"
 categories:
   - "Political Theology"
   - "Political Theory"

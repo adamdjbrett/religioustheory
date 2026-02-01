@@ -3,6 +3,7 @@ title: "From Kant to Hölderlin – Poetry And Religion In The Wake Of Philosoph
 date: 2019-05-17T10:38:04+00:00
 author: editors
 permalink: /2019/05/17/from-kant-to-holderlin-poetry-and-religion-in-the-wake-of-philosophical-aesthetics-part-3-jakob-deibl-2/
+image: "/images/2019/05/IMG_4233.jpeg"
 categories:
   - "Aesthetics"
   - "Philosophy of Religion"

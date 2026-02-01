@@ -3,6 +3,7 @@ title: "Review – Neoliberalsm Is Nowhere – Wendy Brown’s Undoing the Demos
 date: 2017-02-16T10:00:53+00:00
 author: Books
 permalink: /2017/02/16/review-neoliberalismisnowhere-wendy-browns-undoing-the-demos-isaiah/
+image: "/images/2017/02/charles_hope-thatcher_tina.jpg"
 categories:
   - "Reviews"
 ---

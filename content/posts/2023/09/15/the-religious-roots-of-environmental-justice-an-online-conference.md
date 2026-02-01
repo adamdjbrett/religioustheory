@@ -3,6 +3,7 @@ title: "The Religious Roots of Environmental Justice – An Online Conference"
 date: 2023-09-15T22:43:19+00:00
 author: editors
 permalink: /2023/09/15/the-religious-roots-of-environmental-justice-an-online-conference/
+image: "/images/2023/07/Ta_Prohm_III-1024x642.jpg"
 categories:
   - "Conferences"
   - "Announcements"

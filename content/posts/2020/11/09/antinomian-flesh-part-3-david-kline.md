@@ -3,6 +3,7 @@ title: "Antinomian Flesh, Part 3 (David Kline)"
 date: 2020-11-09T05:00:05+00:00
 author: editors
 permalink: /2020/11/09/antinomian-flesh-part-3-david-kline/
+image: "/images/2020/11/Toni_Morrison_2008-2.jpg"
 categories:
   - "Religion and Race"
 ---

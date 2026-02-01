@@ -3,6 +3,7 @@ title: "Plundering A Theory of Trauma – Confessions of A Novice Author on Laca
 date: 2016-03-23T20:57:15+00:00
 author: editors
 permalink: /2016/03/23/plundering-a-theory-of-trauma-confessions-of-a-novice-author-on-lacan-and-theology/
+image: "/images/2016/03/andalou1.jpg"
 categories:
   - "Author Reflections"
   - "Book Previews and Prospectuses"

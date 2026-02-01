@@ -3,6 +3,7 @@ title: "The Unbroken Middle: Overcoming The Empty Sacrifices Of Modernity With G
 date: 2021-11-04T15:40:15+00:00
 author: editors
 permalink: /2021/11/04/the-unbroken-middle-overcoming-the-empty-sacrifices-of-modernity-with-gillian-rose-and-paul-michael-c-raubach/
+image: "/images/2021/11/800px-Wandbild_Portrait_George_Floyd_von_Eme_Street_Art_im_Mauerpark_Berlin.jpg"
 categories:
   - "Philosophy of Religion"
   - "Reviews"

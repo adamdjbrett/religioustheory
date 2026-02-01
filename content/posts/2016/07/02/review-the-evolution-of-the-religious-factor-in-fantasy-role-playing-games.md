@@ -3,6 +3,7 @@ title: "Review – The Evolution of the Religious Factor in Fantasy Role-Playing
 date: 2016-07-02T19:43:11+00:00
 author: editors
 permalink: /2016/07/02/review-the-evolution-of-the-religious-factor-in-fantasy-role-playing-games/
+image: "/images/2016/07/dragon-slayer.jpg"
 categories:
   - "Reviews"
   - "Uncategorized"

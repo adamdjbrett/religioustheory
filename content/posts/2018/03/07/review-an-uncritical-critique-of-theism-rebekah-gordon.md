@@ -3,6 +3,7 @@ title: "Review – An Uncritical Critique of Theism (Rebekah Gordon)"
 date: 2018-03-07T14:45:41+00:00
 author: Books
 permalink: /2018/03/07/review-an-uncritical-critique-of-theism-rebekah-gordon/
+image: "/images/2018/03/jbcol.png"
 categories:
   - "Philosophy of Religion"
   - "Reviews"

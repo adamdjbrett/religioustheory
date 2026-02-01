@@ -3,6 +3,7 @@ title: "Spiritual Erotics, Part 1 – Affect Theory and the Transformation of Ma
 date: 2016-03-30T00:42:20+00:00
 author: editors
 permalink: /2016/03/30/spiritual-erotics-affect-theory-and-the-transformation-of-machismo-among-latino-pentecostal-men-part-1/
+image: "/images/2016/03/20120503nw1179.jpg"
 categories:
   - "Book Previews and Prospectuses"
   - "Author Reflections"

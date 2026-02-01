@@ -3,6 +3,7 @@ title: "Jesus’ Ghost – Derrida, Christianity, and “Hauntology”, Part 3"
 date: 2016-05-14T21:41:02+00:00
 author: editors
 permalink: /2016/05/14/jesus-ghost-derrida-christianity-and-hauntology-part-3/
+image: "/images/2016/05/brain-facs.jpg"
 categories:
   - "Book Previews and Prospectuses"
   - "Uncategorized"

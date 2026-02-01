@@ -3,6 +3,7 @@ title: "The Hollow Christians Of End Times Fiction, Part 1 (Paul Maltby)"
 date: 2020-02-18T04:18:55+00:00
 author: editors
 permalink: /2020/02/18/the-hollow-christians-of-end-times-fiction-part-1-paul-maltby/
+image: "/images/2020/02/Doctor_Who_Experience_3998731216.jpg"
 categories:
   - "Religion and Literature"
 ---

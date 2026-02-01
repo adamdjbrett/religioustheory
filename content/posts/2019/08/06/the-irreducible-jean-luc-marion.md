@@ -3,6 +3,7 @@ title: "The Irreducible (Jean-Luc Marion)"
 date: 2019-08-06T02:16:13+00:00
 author: editors
 permalink: /2019/08/06/the-irreducible-jean-luc-marion/
+image: "/images/2019/08/Vassily_Kandinsky_1923_-_Composition_8_huile_sur_toile_140_cm_x_201_cm_Muse%CC%81e_Guggenheim_New_York.jpg"
 categories:
   - "Philosophy of Religion"
   - "Theology"

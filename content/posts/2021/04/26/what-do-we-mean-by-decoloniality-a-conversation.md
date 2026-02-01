@@ -3,6 +3,7 @@ title: "What Do We Mean By “Decoloniality”? A Discussion, Part 1"
 date: 2021-04-26T17:02:02+00:00
 author: editors
 permalink: /2021/04/26/what-do-we-mean-by-decoloniality-a-conversation/
+image: "/images/2021/05/Tikal_mayan_ruins_2009.jpg"
 categories:
   - "Decoloniality"
 ---

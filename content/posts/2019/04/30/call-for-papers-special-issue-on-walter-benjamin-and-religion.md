@@ -3,6 +3,7 @@ title: "Call For Papers – Special Issue On Walter Benjamin And Religion"
 date: 2019-04-30T17:00:54+00:00
 author: editors
 permalink: /2019/04/30/call-for-papers-special-issue-on-walter-benjamin-and-religion/
+image: "/images/2019/04/kirsh_1-071014.jpg"
 categories:
   - "Announcements"
   - "Critical Theory"

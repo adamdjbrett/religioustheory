@@ -3,6 +3,7 @@ title: "Debriefing On Decoloniality – A Public Conversation, Part 2"
 date: 2021-06-22T04:47:14+00:00
 author: editors
 permalink: /2021/06/22/debriefing-on-decoloniality-a-public-conversation-part-2/
+image: "/images/2021/06/Nama_man_greeting_us_3693359757.jpg"
 categories:
   - "Decoloniality"
 ---

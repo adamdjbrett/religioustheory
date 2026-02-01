@@ -3,6 +3,7 @@ title: "Critical Conversations – The Power Of “Political Erasure”, A Semin
 date: 2022-03-02T03:50:10+00:00
 author: editors
 permalink: /2022/03/02/critical-conversations-the-power-of-political-erasure-a-seminar-with-arthur-bradley-announcements/
+image: "/images/2022/03/Guernica_museum_sofia_queen_on_july_2018-rotated-1210x642.jpg"
 categories:
   - "Announcements"
   - "Political Philosophy"

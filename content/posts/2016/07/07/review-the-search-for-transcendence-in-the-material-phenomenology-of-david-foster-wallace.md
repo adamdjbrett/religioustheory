@@ -3,6 +3,7 @@ title: "Review – The Search For Transcendence In The “Material Phenomenology
 date: 2016-07-07T00:19:50+00:00
 author: editors
 permalink: /2016/07/07/review-the-search-for-transcendence-in-the-material-phenomenology-of-david-foster-wallace/
+image: "/images/2016/07/DavidFosterWallace1.jpg"
 categories:
   - "Reviews"
   - "Theology"

@@ -3,6 +3,7 @@ title: "Sikhs As Subalterns – Voice, Inequality, And Power, Part 3 (Nirvikar S
 date: 2024-02-08T17:50:32+00:00
 author: editors
 permalink: /2024/02/08/sikhs-as-subalterns-voice-inequality-and-power-part-3-nirvikar-singh/
+image: "/images/2024/02/Golden_Temple_Sikhism-1176x642.jpg"
 categories:
   - "Postcolonial Theory"
   - "Theology"

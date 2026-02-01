@@ -3,6 +3,7 @@ title: "Untimely Meditations on Techno-Theology and Theo-Poetics, Part 1 (John P
 date: 2017-03-22T13:22:18+00:00
 author: editors
 permalink: /2017/03/22/untimely-meditations-on-techno-theology-and-theo-poetics-part-1-john-panteleimon-manoussakis/
+image: "/images/2017/03/Mesopotamia.jpg"
 categories:
   - "Philosophy"
   - "Philosophy of Religion"

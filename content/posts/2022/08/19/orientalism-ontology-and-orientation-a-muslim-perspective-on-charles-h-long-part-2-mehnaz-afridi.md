@@ -3,6 +3,7 @@ title: "Orientalism, Ontology, And Orientation – A Muslim Perspective On Charl
 date: 2022-08-19T21:56:22+00:00
 author: editors
 permalink: /2022/08/19/orientalism-ontology-and-orientation-a-muslim-perspective-on-charles-h-long-part-2-mehnaz-afridi/
+image: "/images/2022/08/Willmette_how-1000x642.jpg"
 categories:
   - "Religious Studies"
   - "Philosophy of Religion"

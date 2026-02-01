@@ -3,6 +3,7 @@ title: "Conference on Populism, Nationalism, and the Future of Democracy (Announ
 date: 2025-09-07T02:59:34+00:00
 author: editors
 permalink: /2025/09/07/conference-on-populism-nationalism-and-the-future-of-democracy-announcement/
+image: "/images/2025/04/Bundesarchiv_Bild_183-1989-1106-405_Plauen_Demonstration_vor_dem_Rathaus.jpg"
 categories:
   - "Conferences"
 ---

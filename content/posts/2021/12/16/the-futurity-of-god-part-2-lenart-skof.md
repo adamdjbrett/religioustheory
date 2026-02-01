@@ -3,6 +3,7 @@ title: "The Futurity Of God, Part 2 (Lenart Škof)"
 date: 2021-12-16T00:18:53+00:00
 author: editors
 permalink: /2021/12/16/the-futurity-of-god-part-2-lenart-skof/
+image: "/images/2021/12/800px-Apophysis_Cyclone.png"
 categories:
   - "Philosophical Theology"
   - "Philosophy of Religion"

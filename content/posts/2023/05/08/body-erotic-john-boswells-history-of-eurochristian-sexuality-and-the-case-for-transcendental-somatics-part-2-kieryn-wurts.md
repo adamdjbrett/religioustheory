@@ -3,6 +3,7 @@ title: "Body Erotic – John Boswell’s History Of Eurochristian Sexuality And 
 date: 2023-05-08T17:11:28+00:00
 author: editors
 permalink: /2023/05/08/body-erotic-john-boswells-history-of-eurochristian-sexuality-and-the-case-for-transcendental-somatics-part-2-kieryn-wurts/
+image: "/images/2023/05/Jerusalem_gay_pride_parade_05-1-1200x642.jpg"
 categories:
   - "Gender Studies"
 ---

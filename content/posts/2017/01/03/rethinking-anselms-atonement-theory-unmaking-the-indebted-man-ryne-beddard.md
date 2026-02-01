@@ -3,6 +3,7 @@ title: "Rethinking Anselm’s Atonement Theory –  “Unmaking” The Indebted 
 date: 2017-01-03T20:16:03+00:00
 author: editors
 permalink: /2017/01/03/rethinking-anselms-atonement-theory-unmaking-the-indebted-man-ryne-beddard/
+image: "/images/2017/01/atonement-lg.jpg"
 categories:
   - "Theology"
   - "Lutheran Theology"

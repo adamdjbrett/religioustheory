@@ -3,6 +3,7 @@ title: "“Damn It, He’s An Injun!” Christian Murder, Colonial Wealth, And T
 date: 2019-03-14T04:08:10+00:00
 author: editors
 permalink: /2019/03/14/damn-it-hes-an-injun-christian-murder-colonial-wealth-and-tanned-human-skin-tink-tinker-wazhazhe-udsethe-part-1/
+image: "/images/2019/03/1600px-thumbnail.jpg"
 categories:
   - "Native American Religions"
 ---

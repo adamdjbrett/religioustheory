@@ -3,6 +3,7 @@ title: "The Mythology of Afterlife Beliefs and Their Impact on Religious Conflic
 date: 2017-11-07T22:29:04+00:00
 author: editors
 permalink: /2017/11/07/the-mythology-of-afterlife-beliefs-and-their-impact-on-religious-conflict-part-2-brigid-burke/
+image: "/images/2017/10/Genrich_Ippolitovich_Semiradsky_-_Roma_1889.jpg"
 categories:
   - "Mythology"
   - "Philosophy of Religion"

@@ -3,6 +3,7 @@ title: "Review – Donovan Schaefer’s Call For a Materialist Turn In Religious
 date: 2016-06-03T04:17:59+00:00
 author: editors
 permalink: /2016/06/03/review-donovan-schaefers-call-for-a-materialist-turn-in-religious-theory/
+image: "/images/2016/06/Busy-Fall.jpg"
 categories:
   - "Reviews"
   - "Philosophy"

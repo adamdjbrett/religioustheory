@@ -3,6 +3,7 @@ title: "Untimely Meditations on Techno-Theology and Theo-Poetics, Part 2 (John P
 date: 2017-04-01T01:41:57+00:00
 author: editors
 permalink: /2017/04/01/untimely-meditations-on-techno-theology-and-theo-poetics-part-2-john-panteleimon-manoussakis/
+image: "/images/2017/04/under-den-linden.jpg"
 categories:
   - "Philosophy"
   - "Metaphysics"

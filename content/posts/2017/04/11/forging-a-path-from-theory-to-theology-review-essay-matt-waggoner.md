@@ -3,6 +3,7 @@ title: "Forging A Path From Theory To Theology – Review Essay (Matt Waggoner)"
 date: 2017-04-11T05:03:59+00:00
 author: editors
 permalink: /2017/04/11/forging-a-path-from-theory-to-theology-review-essay-matt-waggoner/
+image: "/images/2017/04/the-insurrection.jpg"
 categories:
   - "Reviews"
   - "Theology"

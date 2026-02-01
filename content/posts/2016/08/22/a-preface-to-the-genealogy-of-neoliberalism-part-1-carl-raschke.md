@@ -3,6 +3,7 @@ title: "A Preface To The Genealogy of Neoliberalism, Part 1 (Carl Raschke)"
 date: 2016-08-22T06:04:22+00:00
 author: editors
 permalink: /2016/08/22/a-preface-to-the-genealogy-of-neoliberalism-part-1-carl-raschke/
+image: "/images/2016/08/Malabon-City.jpg"
 categories:
   - "Political Theology"
   - "Critical Conversations"

@@ -3,6 +3,7 @@ title: "Time Emptied And Time Renewed – The Dominion Of Capital And A Theo-Pol
 date: 2016-12-01T05:48:01+00:00
 author: editors
 permalink: /2016/12/01/time-emptied-and-time-renewed-the-dominion-of-capital-and-a-theo-politics-of-contretemps-part-1-daniel-rhodes/
+image: "/images/2016/12/capitalism_0.jpg"
 categories:
   - "Philosophy"
   - "Political Theology"

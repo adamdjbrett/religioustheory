@@ -3,6 +3,7 @@ title: "Review – Ontic Flows: From Digital Humanities to Posthumanities (Dean 
 date: 2017-05-25T01:00:00+00:00
 author: Books
 permalink: /2017/05/25/review-ontic-flows-from-digital-humanities-to-posthumanities-dean-dettloff/
+image: "/images/2017/05/IMG_1445.jpg"
 categories:
   - "Reviews"
   - "World Religions"

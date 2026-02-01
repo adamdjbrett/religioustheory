@@ -3,6 +3,7 @@ title: "Philosophy As Love – Unblocking The Road From Athens To Jerusalem, Par
 date: 2022-12-15T12:17:29+00:00
 author: editors
 permalink: /2022/12/15/philosophy-as-love-unblocking-the-road-from-athens-to-jerusalem-part-2-erik-meganck/
+image: "/images/2022/12/Retro-futurism.jpg"
 categories:
   - "Philosophy of Religion"
   - "Reviews"

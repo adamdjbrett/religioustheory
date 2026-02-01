@@ -3,6 +3,7 @@ title: "Collective Desire and the Pathology of the Individual, Part 2 (Jodi Dean
 date: 2016-10-19T02:40:47+00:00
 author: editors
 permalink: /2016/10/19/collective-desire-and-the-pathology-of-the-individual-part-2-jodi-dean/
+image: "/images/2016/10/Proudhon-children.jpg"
 categories:
   - "Critical Theory"
   - "Psychoanalysis"

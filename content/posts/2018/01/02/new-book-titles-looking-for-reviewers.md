@@ -3,6 +3,7 @@ title: "Looking For Reviewers"
 date: 2018-01-02T00:09:52+00:00
 author: editors
 permalink: /2018/01/02/new-book-titles-looking-for-reviewers/
+image: "/images/2017/04/woman-face-in-shadow.jpg"
 categories:
   - "Announcements"
   - "Critical Theory"

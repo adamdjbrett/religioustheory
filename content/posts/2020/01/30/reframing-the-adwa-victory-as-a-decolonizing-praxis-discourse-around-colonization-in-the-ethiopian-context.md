@@ -3,6 +3,7 @@ title: "Reframing The Adwa Victory As A Decolonizing Praxis –  Discourse Aroun
 date: 2020-01-30T04:54:10+00:00
 author: editors
 permalink: /2020/01/30/reframing-the-adwa-victory-as-a-decolonizing-praxis-discourse-around-colonization-in-the-ethiopian-context/
+image: "/images/2020/01/Adoua_1.jpg"
 categories:
   - "Postcolonial Theory"
   - "Indigenous Religions"

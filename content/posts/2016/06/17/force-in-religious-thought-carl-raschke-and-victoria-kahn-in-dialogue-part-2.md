@@ -3,6 +3,7 @@ title: "Force in Religious Thought – Carl Raschke and Victoria Kahn in Dialogu
 date: 2016-06-17T03:22:41+00:00
 author: editors
 permalink: /2016/06/17/force-in-religious-thought-carl-raschke-and-victoria-kahn-in-dialogue-part-2/
+image: "/images/2016/06/storytelling.jpg"
 categories:
   - "Political Theology"
 ---

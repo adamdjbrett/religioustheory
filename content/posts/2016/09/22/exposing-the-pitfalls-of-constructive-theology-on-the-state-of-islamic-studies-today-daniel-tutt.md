@@ -3,6 +3,7 @@ title: "Review – Aaron Hughes’ ‘Islam and the Tyranny of Authenticity’ (
 date: 2016-09-22T08:00:31+00:00
 author: Books
 permalink: /2016/09/22/exposing-the-pitfalls-of-constructive-theology-on-the-state-of-islamic-studies-today-daniel-tutt/
+image: "/images/2016/09/hajj.jpg"
 categories:
   - "Reviews"
 ---

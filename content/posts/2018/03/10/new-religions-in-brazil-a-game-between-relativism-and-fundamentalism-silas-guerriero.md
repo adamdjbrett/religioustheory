@@ -3,6 +3,7 @@ title: "New Religions in Brazil – A Game Between Relativism and Fundamentalism
 date: 2018-03-10T04:59:57+00:00
 author: editors
 permalink: /2018/03/10/new-religions-in-brazil-a-game-between-relativism-and-fundamentalism-silas-guerriero/
+image: "/images/2018/03/ISKCON_Temple_Bhubaneswar_Lord_Jagannath_Balabhadra_Subhadra.jpg"
 categories:
   - "New Religions"
   - "Religion and Media"

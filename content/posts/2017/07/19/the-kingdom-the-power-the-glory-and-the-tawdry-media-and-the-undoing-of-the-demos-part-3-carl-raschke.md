@@ -3,6 +3,7 @@ title: "The Kingdom, The Power, The Glory, And The Tawdry – Media And The Undo
 date: 2017-07-19T13:58:20+00:00
 author: editors
 permalink: /2017/07/19/the-kingdom-the-power-the-glory-and-the-tawdry-media-and-the-undoing-of-the-demos-part-3-carl-raschke/
+image: "/images/2017/07/Blake_jacobsladder.jpg"
 categories:
   - "Political Theology"
   - "Political Theory"

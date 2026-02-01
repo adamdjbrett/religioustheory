@@ -3,6 +3,7 @@ title: "Tsimtsum In Life Of Pi, Part 1 (Daniel Reiser)"
 date: 2020-11-25T05:41:59+00:00
 author: editors
 permalink: /2020/11/25/tsimtsum-in-life-of-pi-part-1-daniel-reiser/
+image: "/images/2020/11/1600px-Life_of_PI_30790302401.jpg"
 categories:
   - "Jewish Philosophy of Religion"
 ---

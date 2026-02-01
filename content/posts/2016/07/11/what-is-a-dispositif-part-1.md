@@ -3,6 +3,7 @@ title: "What Is A Dispositif? – Part 1 (Gregg Lambert)"
 date: 2016-07-11T03:35:20+00:00
 author: editors
 permalink: /2016/07/11/what-is-a-dispositif-part-1/
+image: "/images/2016/07/682px-thumbnail.jpg"
 categories:
   - "Critical Theory"
   - "Uncategorized"

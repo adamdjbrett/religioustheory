@@ -3,6 +3,7 @@ title: "Dreaming Innocence in America – Paul Tillich’s Radical Theology of L
 date: 2016-11-29T19:55:27+00:00
 author: editors
 permalink: /2016/11/29/dreaming-innocence-in-america-paul-tillichs-radical-theology-of-liberation-part-3-alan-jay-richard/
+image: "/images/2016/11/William_Blake_-_The_Shepherd_from_Songs_of_Innocence_-_Google_Art_Project.jpg"
 categories:
   - "Theology"
   - "Philosophy of Religion"

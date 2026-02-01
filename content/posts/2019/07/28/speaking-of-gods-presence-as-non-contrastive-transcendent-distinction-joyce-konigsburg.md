@@ -3,6 +3,7 @@ title: "Speaking Of God’s Presence As Non-Contrastive Transcendent Distinction
 date: 2019-07-28T01:42:10+00:00
 author: editors
 permalink: /2019/07/28/speaking-of-gods-presence-as-non-contrastive-transcendent-distinction-joyce-konigsburg/
+image: "/images/2019/08/964px-Angel_of_the_Divine_Presence_Bringing_Eve_to_Adam_The_Creation_of_Eve-__And_She_Shall_be_Called_Woman_recto_Sketch_for_the_same_verso_MET_DP805381.jpg"
 categories:
   - "Philosophical Theology"
 ---

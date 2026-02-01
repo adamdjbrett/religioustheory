@@ -3,6 +3,7 @@ title: "What Is A Dispositif? – Part 2 (Gregg Lambert)"
 date: 2016-07-18T14:11:35+00:00
 author: editors
 permalink: /2016/07/18/what-is-a-dispositif-part-2/
+image: "/images/2016/07/Foucaults-pendulum.jpg"
 categories:
   - "Critical Theory"
   - "Announcements"

@@ -3,6 +3,7 @@ title: "Conferences and CFPs – Upcoming"
 date: 2016-02-26T20:48:25+00:00
 author: editors
 permalink: /2016/02/26/upcoming-conferences-call-for-papers/
+image: "/images/2016/02/William-Pynchon.png"
 categories:
   - "Conferences"
   - "Announcements"

@@ -3,6 +3,7 @@ title: "Mischief, Idolatry, And The Demonic – Toward A Hermeneutic Of Play, Pa
 date: 2018-05-28T14:19:34+00:00
 author: editors
 permalink: /2018/05/28/mischief-idolatry-and-the-demonic-toward-a-hermeneutic-of-play-part-ii-kevin-lewis/
+image: "/images/2018/02/William_Blake_-_Satan_Smiting_Job_with_Sore_Boils_-_Google_Art_Project.jpg"
 categories:
   - "Hermeneutics"
   - "Theory"

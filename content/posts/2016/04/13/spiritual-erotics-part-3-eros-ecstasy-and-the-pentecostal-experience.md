@@ -3,6 +3,7 @@ title: "Spiritual Erotics, Part 3 – Eros, Ecstasy, and the Pentecostal Experie
 date: 2016-04-13T01:12:35+00:00
 author: editors
 permalink: /2016/04/13/spiritual-erotics-part-3-eros-ecstasy-and-the-pentecostal-experience/
+image: "/images/2016/04/Catharsis.jpg"
 categories:
   - "Author Reflections"
   - "Book Previews and Prospectuses"

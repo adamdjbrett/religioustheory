@@ -3,6 +3,7 @@ title: "Evangelicalism, Pentecostalism, And The Quotidian Academic Terror Of “
 date: 2023-02-23T19:14:49+00:00
 author: editors
 permalink: /2023/02/23/evangelicalism-pentecostalism-and-the-quotidian-academic-terror-of-christian-nationalism/
+image: "/images/2023/02/american-flag-spanish-mission-1200x642.jpg"
 categories:
   - "Political Theology"
   - "Critical Conversations"

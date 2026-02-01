@@ -3,6 +3,7 @@ title: "NOTATIONS – The “Unacculturable” – Refugee Flux Spurs Crisis of 
 date: 2016-03-06T01:21:01+00:00
 author: editors
 permalink: /2016/03/06/notations-the-unacculturable-refugee-flux-spurs-crisis-of-european-belief/
+image: "/images/2016/03/Syrian-Refugees.jpg"
 categories:
   - "Notations"
 ---

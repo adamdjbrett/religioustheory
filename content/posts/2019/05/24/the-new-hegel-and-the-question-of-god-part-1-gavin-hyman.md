@@ -3,6 +3,7 @@ title: "The “New Hegel” And The Question Of God, Part 1 (Gavin Hyman)"
 date: 2019-05-24T12:20:15+00:00
 author: editors
 permalink: /2019/05/24/the-new-hegel-and-the-question-of-god-part-1-gavin-hyman/
+image: "/images/2019/05/Hegel_by_Kugler_retouched.jpg"
 categories:
   - "Philosophy of Religion"
   - "Lutheran Theology"

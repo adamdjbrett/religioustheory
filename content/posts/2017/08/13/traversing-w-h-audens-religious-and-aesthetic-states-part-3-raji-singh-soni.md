@@ -3,6 +3,7 @@ title: "Traversing W.H. Auden’s Religious And Aesthetic States, Part 3 (Raji S
 date: 2017-08-13T03:32:03+00:00
 author: editors
 permalink: /2017/08/13/traversing-w-h-audens-religious-and-aesthetic-states-part-3-raji-singh-soni/
+image: "/images/2017/08/Style-img_7932-Kanagawa-0.4MP.jpg"
 categories:
   - "Religion and Literature"
 ---

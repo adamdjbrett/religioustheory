@@ -13,6 +13,11 @@ layout: base.njk
 </nav>
 
 <article>
+  {% if image %}
+  <figure class="post-hero">
+    <img src="{{ image }}" alt="{{ title }}">
+  </figure>
+  {% endif %}
   <header>
     <h1 data-pagefind-meta="title">{{ title }}</h1>
     <div class="post-meta">

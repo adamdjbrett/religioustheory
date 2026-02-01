@@ -3,6 +3,7 @@ title: "Negative Theology And Its Problems: Barth And Marion, Lecture 3 (Johanne
 date: 2018-07-26T22:43:26+00:00
 author: editors
 permalink: /2018/07/26/negative-theology-and-its-problems-barth-and-marion-lecture-3-johannes-zachhuber/
+image: "/images/2018/07/thumb_IMG_2156_1024.jpg"
 categories:
   - "Theology"
   - "Psychoanalysis"

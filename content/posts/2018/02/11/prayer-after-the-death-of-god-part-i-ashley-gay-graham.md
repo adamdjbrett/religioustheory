@@ -3,6 +3,7 @@ title: "Prayer After The Death Of God, Part I (Ashley [Gay] Graham)"
 date: 2018-02-11T20:01:30+00:00
 author: editors
 permalink: /2018/02/11/prayer-after-the-death-of-god-part-i-ashley-gay-graham/
+image: "/images/2018/01/The-praying-Jew.jpg"
 categories:
   - "Philosophy of Religion"
   - "Theology"

@@ -3,6 +3,7 @@ title: "Lacan, Levinas, And The Politics Of The Subject (Joshua Lawrence)"
 date: 2017-01-21T18:54:54+00:00
 author: editors
 permalink: /2017/01/21/lacan-levinas-and-the-politics-of-the-subject-joshua-lawrence/
+image: "/images/2017/01/levinas1.jpg"
 categories:
   - "Political Theology"
   - "Psychoanalysis"

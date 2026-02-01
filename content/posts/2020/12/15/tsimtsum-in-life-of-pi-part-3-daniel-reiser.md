@@ -3,6 +3,7 @@ title: "Tsimtsum In Life Of Pi, Part 3 (Daniel Reiser)"
 date: 2020-12-15T05:31:14+00:00
 author: editors
 permalink: /2020/12/15/tsimtsum-in-life-of-pi-part-3-daniel-reiser/
+image: "/images/2020/12/Rabbi_Pinchas_HaKohen_Lintup.jpg"
 categories:
   - "Jewish Philosophy of Religion"
 ---

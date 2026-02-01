@@ -3,6 +3,7 @@ title: "Re-Envisioning Religious Studies As A Global Discipline – A Pre-AAR Sy
 date: 2018-10-02T22:22:09+00:00
 author: editors
 permalink: /2018/10/02/re-envisioning-religious-studies-as-a-global-discipline-a-pre-aar-symposium/
+image: "/images/2018/10/Indigenous-peoples-4.jpg"
 categories:
   - "Announcements"
 ---

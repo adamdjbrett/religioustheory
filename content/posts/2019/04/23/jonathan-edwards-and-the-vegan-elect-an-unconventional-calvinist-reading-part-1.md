@@ -3,6 +3,7 @@ title: "Jonathan Edwards And The Vegan Elect – An Unconventional Calvinist Rea
 date: 2019-04-23T16:59:41+00:00
 author: editors
 permalink: /2019/04/23/jonathan-edwards-and-the-vegan-elect-an-unconventional-calvinist-reading-part-1/
+image: "/images/2019/04/J-edwards.jpg"
 categories:
   - "Theology"
   - "Postcolonial Theory"

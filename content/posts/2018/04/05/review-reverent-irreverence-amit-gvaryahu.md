@@ -3,6 +3,7 @@ title: "Review – Reverent Irreverence (Amit Gvaryahu)"
 date: 2018-04-05T22:34:41+00:00
 author: Books
 permalink: /2018/04/05/review-reverent-irreverence-amit-gvaryahu/
+image: "/images/2018/03/Alexej_von_Jawlensky_-_The_old_Jew_1893.jpg"
 categories:
   - "Philosophy"
   - "Reviews"

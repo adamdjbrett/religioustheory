@@ -3,6 +3,7 @@ title: "Time Emptied And Time Renewed – The Dominion Of Capital And A Theo-Pol
 date: 2016-12-06T05:15:13+00:00
 author: editors
 permalink: /2016/12/06/time-emptied-and-time-renewed-the-dominion-of-capital-and-a-theo-politics-of-contretemps-part-2-daniel-rhodes/
+image: "/images/2016/12/earthquake.jpg"
 categories:
   - "Philosophy"
   - "Higher Education"

@@ -3,6 +3,7 @@ title: "“Scale Relative Ontology” And Simone Weil’s Spiritual Philosophy, 
 date: 2021-05-18T13:32:16+00:00
 author: editors
 permalink: /2021/05/18/scale-relative-ontology-and-simone-weils-spiritual-philosophy-part-2-n-e-boulting/
+image: "/images/2021/05/Fishing-pole.png"
 categories:
   - "Philosophical Theology"
 ---

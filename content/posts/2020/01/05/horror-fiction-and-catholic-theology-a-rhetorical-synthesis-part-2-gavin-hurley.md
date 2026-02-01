@@ -3,6 +3,7 @@ title: "Horror Fiction And Catholic Theology – A Rhetorical Synthesis, Part 2 
 date: 2020-01-05T23:29:49+00:00
 author: editors
 permalink: /2020/01/05/horror-fiction-and-catholic-theology-a-rhetorical-synthesis-part-2-gavin-hurley/
+image: "/images/2020/01/buchcover-1572453224D0o.jpg"
 categories:
   - "Aesthetics"
   - "Catholicism"

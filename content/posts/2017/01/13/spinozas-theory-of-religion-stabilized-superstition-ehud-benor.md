@@ -3,6 +3,7 @@ title: "Spinoza’s Theory of Religion – Stabilized Superstition (Ehud Benor)"
 date: 2017-01-13T22:59:35+00:00
 author: editors
 permalink: /2017/01/13/spinozas-theory-of-religion-stabilized-superstition-ehud-benor/
+image: "/images/2017/01/jewish-1159704_1920.jpg"
 categories:
   - "Philosophy of Religion"
 ---

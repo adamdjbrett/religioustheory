@@ -3,6 +3,7 @@ title: "Biopolitics and Vajrayana Buddhism, Part 2 (Padraic Fitzgerald)"
 date: 2016-06-08T05:19:53+00:00
 author: editors
 permalink: /2016/06/08/biopolitics-and-vajrayana-buddhism-part-2/
+image: "/images/2016/06/Chod-ritual.jpg"
 categories:
   - "Political Theology"
 ---

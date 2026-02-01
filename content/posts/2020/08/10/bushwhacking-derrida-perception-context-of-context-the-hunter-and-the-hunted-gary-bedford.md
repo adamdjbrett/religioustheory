@@ -3,6 +3,7 @@ title: "Bushwhacking Derrida – “Perception” – “Context of Context”, 
 date: 2020-08-10T21:54:19+00:00
 author: editors
 permalink: /2020/08/10/bushwhacking-derrida-perception-context-of-context-the-hunter-and-the-hunted-gary-bedford/
+image: "/images/2020/08/Screen-Shot-2020-08-17-at-5.00.03-PM.png"
 categories:
   - "Philosophy"
 ---

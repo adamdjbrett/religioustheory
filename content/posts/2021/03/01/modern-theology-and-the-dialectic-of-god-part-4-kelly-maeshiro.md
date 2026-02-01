@@ -3,6 +3,7 @@ title: "Modern Theology And The Dialectic Of God, Part 4 (Kelly Maeshiro)"
 date: 2021-03-01T17:18:02+00:00
 author: editors
 permalink: /2021/03/01/modern-theology-and-the-dialectic-of-god-part-4-kelly-maeshiro/
+image: "/images/2021/03/Janus_.jpg"
 categories:
   - "Theology"
   - "Postcolonial Theory"

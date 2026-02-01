@@ -3,6 +3,7 @@ title: "Religious Sacrificial Sympathy- How Man Became More Valuable Than Beast 
 date: 2024-03-15T13:53:12+00:00
 author: editors
 permalink: /2024/03/15/religious-sacrificial-sympathy-how-man-became-more-valuable-than-beast-kevin-s-grane/
+image: "/images/2024/09/3725-1210x642.jpg"
 categories:
   - "Cultural Theory"
   - "Announcements"

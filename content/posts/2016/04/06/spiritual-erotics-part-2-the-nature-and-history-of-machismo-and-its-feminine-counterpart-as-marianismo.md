@@ -3,6 +3,7 @@ title: "Spiritual Erotics, Part 2 – The Nature and History of Machismo and Its
 date: 2016-04-06T18:31:29+00:00
 author: editors
 permalink: /2016/04/06/spiritual-erotics-part-2-the-nature-and-history-of-machismo-and-its-feminine-counterpart-as-marianismo/
+image: "/images/2016/04/749_20_2.jpg"
 categories:
   - "Book Previews and Prospectuses"
   - "Author Reflections"

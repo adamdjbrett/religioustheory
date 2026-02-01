@@ -3,6 +3,7 @@ title: "Hegel Contra God – Replying To Gavin Hyman’s “New Hegel”, Part 2
 date: 2023-01-30T23:14:33+00:00
 author: editors
 permalink: /2023/01/30/hegel-contra-god-replying-to-gavin-hymans-new-hegel-part-2-rebekah-howes/
+image: "/images/2023/02/Hegel-dancing.png"
 categories:
   - "Philosophical Theology"
   - "Philosophy of Religion"

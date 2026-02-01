@@ -3,6 +3,7 @@ title: "John the Possibilizer: The Promise of a Kearnian Baptismal Hermeneutic, 
 date: 2018-01-21T21:20:32+00:00
 author: editors
 permalink: /2018/01/21/john-the-possibilizer-the-promise-of-a-kearnian-baptismal-hermeneutic-part-i-eric-trozzo/
+image: "/images/2018/01/Style-Head_of_Saint_John_the_Baptist_by_an_anonymous_Spanish_painter_c._1600-1650_Cleveland_Museum_of_Art-Ballpoint-0.4MP.jpg"
 categories:
   - "Philosophy of Religion"
   - "Religious Studies"

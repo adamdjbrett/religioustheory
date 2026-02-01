@@ -3,6 +3,7 @@ title: "From Holistic To In-Between Theology – The Ethiopian Evangelical Churc
 date: 2022-04-15T13:29:11+00:00
 author: editors
 permalink: /2022/04/15/from-holistic-to-in-between-theology-the-ethiopian-evangelical-church-mekane-yesus/
+image: "/images/2022/05/Gudina_Tumsas_grav-846x642.jpg"
 categories:
   - "Postcolonial Theory"
   - "Theology"

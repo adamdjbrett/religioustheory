@@ -3,6 +3,7 @@ title: "The Hollow Christians Of End Times Fiction, Part 3 (Paul Maltby)"
 date: 2020-03-03T04:32:12+00:00
 author: editors
 permalink: /2020/03/03/the-hollow-christians-of-end-times-fiction-part-3-paul-maltby/
+image: "/images/2020/03/Apocalypse-Albert_Goodwin.jpg"
 categories:
   - "Religion and Literature"
 ---

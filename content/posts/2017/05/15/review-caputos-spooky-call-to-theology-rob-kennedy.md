@@ -3,6 +3,7 @@ title: "Review – Caputo’s “Spooky” Call To Theology (Rob Kennedy)"
 date: 2017-05-15T19:10:04+00:00
 author: editors
 permalink: /2017/05/15/review-caputos-spooky-call-to-theology-rob-kennedy/
+image: "/images/2017/05/ghost-story.jpg"
 categories:
   - "Reviews"
   - "Philosophy of Religion"

@@ -3,6 +3,7 @@ title: "Let’s Get Real About Race – Two Very Timely Upcoming Online Seminars
 date: 2021-08-23T04:05:04+00:00
 author: editors
 permalink: /2021/08/23/lets-get-real-about-race-two-very-timely-upcoming-online-seminars-announcement/
+image: "/images/2021/08/race.jpg"
 categories:
   - "Announcements"
   - "Critical Conversations"

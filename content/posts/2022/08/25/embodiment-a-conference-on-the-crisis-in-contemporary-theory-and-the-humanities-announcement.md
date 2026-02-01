@@ -3,6 +3,7 @@ title: "Embodiment – A Conference On The Crisis In Contemporary Theory And The
 date: 2022-08-25T20:39:16+00:00
 author: editors
 permalink: /2022/08/25/embodiment-a-conference-on-the-crisis-in-contemporary-theory-and-the-humanities-announcement/
+image: "/images/2022/08/IMG_0123-2-739x642.jpg"
 categories:
   - "Announcements"
   - "Conferences"

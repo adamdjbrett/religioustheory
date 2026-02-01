@@ -3,6 +3,7 @@ title: "Review – A Stranger Thought For Stranger Times (Liam Burrell)"
 date: 2017-04-06T04:00:49+00:00
 author: Books
 permalink: /2017/04/06/review-a-stranger-thought-for-stranger-times-liam-burrell/
+image: "/images/2016/11/laruelle.jpg"
 categories:
   - "Reviews"
   - "Uncategorized"

@@ -3,6 +3,7 @@ title: "A Tainted Trophy And The Framing Of White Supremacy In America, Part 1 (
 date: 2022-10-15T04:12:37+00:00
 author: editors
 permalink: /2022/10/15/a-tainted-trophy-and-the-framing-of-white-supremacy-in-america-part-1-tink-tinker/
+image: "/images/2022/11/1600px-John_Wesley_preaching_to_native_American_Indians._Engraving._Wellcome_V0006867-1210x642.jpg"
 categories:
   - "Indigenous Religions"
   - "Postcolonial Theory"

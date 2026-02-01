@@ -3,6 +3,7 @@ title: "God and History, Lecture 5 (Johannes Zachhuber)"
 date: 2018-11-13T01:15:58+00:00
 author: editors
 permalink: /2018/11/13/god-and-history-lecture-5-johannes-zachhuber/
+image: "/images/2018/11/the-ruins-of-time.jpg"
 categories:
   - "Theology"
   - "Philosophy of Religion"

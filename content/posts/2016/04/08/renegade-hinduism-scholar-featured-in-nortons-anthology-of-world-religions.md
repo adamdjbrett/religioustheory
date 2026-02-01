@@ -3,6 +3,7 @@ title: "Renegade Hinduism Scholar Featured In Norton’s Anthology of World Reli
 date: 2016-04-08T20:15:31+00:00
 author: editors
 permalink: /2016/04/08/renegade-hinduism-scholar-featured-in-nortons-anthology-of-world-religions/
+image: "/images/2016/04/Ilaiah.jpg"
 categories:
   - "Reviews"
   - "World Religions"

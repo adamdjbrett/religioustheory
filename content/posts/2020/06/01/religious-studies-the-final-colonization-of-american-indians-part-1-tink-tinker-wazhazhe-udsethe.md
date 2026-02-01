@@ -3,6 +3,7 @@ title: "Religious Studies – The Final Colonization Of American Indians, Part 1
 date: 2020-06-01T02:25:41+00:00
 author: editors
 permalink: /2020/06/01/religious-studies-the-final-colonization-of-american-indians-part-1-tink-tinker-wazhazhe-udsethe/
+image: "/images/2020/06/Screen-Shot-2020-06-08-at-9.34.57-PM.png"
 categories:
   - "Native American Religions"
 ---

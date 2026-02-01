@@ -3,6 +3,7 @@ title: "Jesus’ Ghost – Derrida, Christianity, and “Hauntology” – Part 
 date: 2016-04-27T01:19:32+00:00
 author: editors
 permalink: /2016/04/27/jesus-ghost-derrida-christianity-and-hauntology-part-1/
+image: "/images/2016/04/Hamlets-ghost.jpg"
 categories:
   - "Critical Theory"
   - "Philosophy of Religion"

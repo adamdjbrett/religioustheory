@@ -3,6 +3,7 @@ title: "The Religious Significance Of Miracles – Why Hume’s Critique Is Supe
 date: 2020-07-29T00:34:06+00:00
 author: editors
 permalink: /2020/07/29/the-religious-significance-of-miracles-why-humes-critique-is-superfluous-part-3-alberto-urquidez/
+image: "/images/2020/07/MILAGROS-1920x960.jpg"
 categories:
   - "Philosophy of Religion"
   - "Lutheran Theology"

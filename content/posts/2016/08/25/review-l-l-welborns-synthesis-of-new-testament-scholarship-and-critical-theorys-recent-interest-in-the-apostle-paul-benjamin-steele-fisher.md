@@ -3,6 +3,7 @@ title: "Review – L.L. Welborn’s Synthesis of New Testament Scholarship and C
 date: 2016-08-25T08:00:16+00:00
 author: Books
 permalink: /2016/08/25/review-l-l-welborns-synthesis-of-new-testament-scholarship-and-critical-theorys-recent-interest-in-the-apostle-paul-benjamin-steele-fisher/
+image: "/images/2016/08/487px-Caravaggio_-_Conversione_di_San_Paolo_Odescalchi.jpg"
 categories:
   - "Reviews"
 ---

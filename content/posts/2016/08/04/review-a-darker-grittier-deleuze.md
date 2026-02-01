@@ -3,6 +3,7 @@ title: "Review – A Darker, Grittier Deleuze (Timothy Snediker)"
 date: 2016-08-04T08:00:23+00:00
 author: Books
 permalink: /2016/08/04/review-a-darker-grittier-deleuze/
+image: "/images/2016/07/Gilles-Deleuze-DR.jpg"
 categories:
   - "Reviews"
   - "World Religions"

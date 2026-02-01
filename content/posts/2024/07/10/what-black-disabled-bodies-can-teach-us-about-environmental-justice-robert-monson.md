@@ -3,6 +3,7 @@ title: "What Black Disabled Bodies Can Teach Us About Environmental Justice (Rob
 date: 2024-07-10T12:13:39+00:00
 author: editors
 permalink: /2024/07/10/what-black-disabled-bodies-can-teach-us-about-environmental-justice-robert-monson/
+image: "/images/2024/07/Disabled_BIPOC_in_front_of_pride_flag-1210x642.jpg"
 categories:
   - "Disability"
 ---

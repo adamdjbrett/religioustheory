@@ -3,6 +3,7 @@ title: "Framing Religious Conflict and Violence – Insights from Historical Ins
 date: 2017-09-22T14:50:20+00:00
 author: editors
 permalink: /2017/09/22/framing-religious-conflict-and-violence-insights-from-historical-institutionalism-part-2-vivek-swaroop-sharma/
+image: "/images/2017/09/images.jpg"
 categories:
   - "Political Theory"
   - "Political Economy"

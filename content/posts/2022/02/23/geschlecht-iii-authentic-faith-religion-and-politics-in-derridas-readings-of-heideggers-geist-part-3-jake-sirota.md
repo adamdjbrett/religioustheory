@@ -3,6 +3,7 @@ title: "Geschlecht III – Authentic Faith, Religion, And Politics In Derrida’
 date: 2022-02-23T22:55:00+00:00
 author: editors
 permalink: /2022/02/23/geschlecht-iii-authentic-faith-religion-and-politics-in-derridas-readings-of-heideggers-geist-part-3-jake-sirota/
+image: "/images/2022/02/Alle%CC%81e_Jacques_Derrida_-_Paris_VI_FR75_-_2021-07-29_-_1-1200x642.jpg"
 categories:
   - "Philosophy of Religion"
   - "Phenomenology"

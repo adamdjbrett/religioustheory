@@ -3,6 +3,7 @@ title: "Shamanism and Entheogens – Toward A Psychoanalysis Of The New “Dream
 date: 2016-10-24T06:12:04+00:00
 author: editors
 permalink: /2016/10/24/shamanism-and-entheogens-toward-a-psychoanalysis-of-the-new-dream-time-roger-green/
+image: "/images/2016/10/sorrowing-old-man-psilocybin-depression.jpg"
 categories:
   - "Psychology of Religion"
   - "Psychoanalysis"

@@ -3,6 +3,7 @@ title: "Review – The Intimate Universal (Stephen Bujno)"
 date: 2019-03-08T03:46:26+00:00
 author: Books
 permalink: /2019/03/08/review-the-intimate-universal-stephen-bujno/
+image: "/images/2019/02/dhruv-weaver-618958-unsplash.jpg"
 categories:
   - "Reviews"
   - "Critical Theory"

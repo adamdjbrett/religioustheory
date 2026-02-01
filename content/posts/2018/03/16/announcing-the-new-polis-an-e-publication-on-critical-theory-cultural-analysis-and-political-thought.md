@@ -3,6 +3,7 @@ title: "Announcing “The New Polis” – An E-Publication On Critical Theory, 
 date: 2018-03-16T17:14:06+00:00
 author: editors
 permalink: /2018/03/16/announcing-the-new-polis-an-e-publication-on-critical-theory-cultural-analysis-and-political-thought/
+image: "/images/2018/03/unnamed-14.jpg"
 categories:
   - "Announcements"
   - "Critical Theory"

@@ -3,6 +3,7 @@ title: "Horror Fiction And Catholic Theology – A Rhetorical Synthesis, Part 1 
 date: 2019-12-29T21:37:41+00:00
 author: editors
 permalink: /2019/12/29/horror-fiction-and-catholic-theology-a-rhetorical-synthesis-gavin-hurley/
+image: "/images/2019/12/Ossuary-Bones.jpg"
 categories:
   - "Aesthetics"
   - "Catholicism"

@@ -3,6 +3,7 @@ title: "Review – Caputo, The Unconditional, The Folly of God (Richard M. Allen
 date: 2016-10-13T08:00:48+00:00
 author: Books
 permalink: /2016/10/13/review-caputo-the-unconditional-the-folly-of-god-richard-m-allen/
+image: "/images/2016/10/paul.jpg"
 categories:
   - "Reviews"
 ---

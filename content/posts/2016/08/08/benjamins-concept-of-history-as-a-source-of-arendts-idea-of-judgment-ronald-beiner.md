@@ -3,6 +3,7 @@ title: "Benjamin’s Concept of History As A Source of Arendt’s Idea of Judgme
 date: 2016-08-08T06:37:39+00:00
 author: editors
 permalink: /2016/08/08/benjamins-concept-of-history-as-a-source-of-arendts-idea-of-judgment-ronald-beiner/
+image: "/images/2016/08/Benjamins-Angel-of-History.jpg"
 categories:
   - "Political Theology"
   - "Philosophy"

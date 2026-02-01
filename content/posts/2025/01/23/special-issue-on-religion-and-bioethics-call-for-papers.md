@@ -3,6 +3,7 @@ title: "Special Issue On Religion and Bioethics (Call for Papers)"
 date: 2025-01-23T04:03:41+00:00
 author: editors
 permalink: /2025/01/23/special-issue-on-religion-and-bioethics-call-for-papers/
+image: "/images/2025/02/800px-Biotechnology_Research_3617772958.jpg"
 categories:
   - "Call for Papers"
 ---

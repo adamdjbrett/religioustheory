@@ -3,6 +3,7 @@ title: "Critical Conversations – American Indian Worldview And The Twinned Cos
 date: 2020-11-18T05:00:30+00:00
 author: editors
 permalink: /2020/11/18/critical-conversations-american-indian-worldview-and-the-twinned-cosmos-of-indigenous-america-announcement/
+image: "/images/2020/11/legend.jpg"
 categories:
   - "Announcements"
   - "Difficult Discussions"

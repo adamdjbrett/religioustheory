@@ -3,6 +3,7 @@ title: "Review – Eugene Thacker’s “Cosmic Pessimism” (N.N. Trakakis)"
 date: 2016-10-27T08:00:23+00:00
 author: Books
 permalink: /2016/10/27/review-eugene-thackers-cosmic-pessimism/
+image: "/images/2016/10/cioran.jpg"
 categories:
   - "Reviews"
   - "Uncategorized"

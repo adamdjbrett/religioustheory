@@ -3,6 +3,7 @@ title: "Orientalism, Ontology, And Orientation – A Muslim Perspective On Charl
 date: 2022-08-09T21:24:59+00:00
 author: editors
 permalink: /2022/08/09/orientalism-ontology-and-orientation/
+image: "/images/2022/08/Quran_inscriptions_on_wall_Lodhi_Gardens_Delhi-1210x642.jpg"
 categories:
   - "Religious Studies"
   - "Philosophy of Religion"

@@ -3,6 +3,7 @@ title: "Review – The Metaphysics of Copresence in Beliso-De Jesùs’ Electric
 date: 2017-03-17T08:00:26+00:00
 author: Books
 permalink: /2017/03/17/review-copresence-and-ontography-in-beliso-de-jesus-electric-santeria-ryne-beddard/
+image: "/images/2017/03/santeria-cover.jpg"
 categories:
   - "Reviews"
 ---

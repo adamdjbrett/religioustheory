@@ -3,6 +3,7 @@ title: "Lacan As “Spiritual Director” – On The Relationship Between Psycho
 date: 2018-07-31T21:05:28+00:00
 author: editors
 permalink: /2018/07/31/lacan-as-spiritual-director-on-the-relationship-between-psychoanalysis-and-christian-mysticism-part-1-mark-murphy/
+image: "/images/2018/07/IMG_1638.jpg"
 categories:
   - "Psychology of Religion"
   - "Psychoanalysis"

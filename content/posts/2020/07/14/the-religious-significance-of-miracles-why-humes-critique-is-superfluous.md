@@ -3,6 +3,7 @@ title: "The Religious Significance Of Miracles – Why Hume’s Critique Is Supe
 date: 2020-07-14T01:46:44+00:00
 author: editors
 permalink: /2020/07/14/the-religious-significance-of-miracles-why-humes-critique-is-superfluous/
+image: "/images/2020/07/Rubens-Les_miracles_de_saint_Benoi%CC%82t.jpg"
 categories:
   - "Philosophy of Religion"
   - "Philosophical Theology"

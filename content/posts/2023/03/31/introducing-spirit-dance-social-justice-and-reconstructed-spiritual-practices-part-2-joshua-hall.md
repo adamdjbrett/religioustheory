@@ -3,6 +3,7 @@ title: "Introducing Spirit/Dance – Social Justice And Reconstructed Spiritual 
 date: 2023-03-31T03:31:41+00:00
 author: editors
 permalink: /2023/03/31/introducing-spirit-dance-social-justice-and-reconstructed-spiritual-practices-part-2-joshua-hall/
+image: "/images/2023/04/800px-Mongol_Shaman_just_before_rituals..jpg"
 categories:
   - "Indigenous Religions"
   - "Postcolonial Theory"

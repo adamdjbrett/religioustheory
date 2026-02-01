@@ -3,6 +3,7 @@ title: "Review – Medicinal Religion (Aaron Klink)"
 date: 2018-08-02T02:15:40+00:00
 author: Books
 permalink: /2018/08/02/review-medicinal-religion-aaron-klink/
+image: "/images/2018/07/Style-Meditation-State-Colorful-World-0.4MP.jpg"
 categories:
   - "Reviews"
 ---

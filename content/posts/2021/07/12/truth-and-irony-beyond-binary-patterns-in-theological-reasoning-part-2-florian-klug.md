@@ -3,6 +3,7 @@ title: "Truth And Irony – Beyond Binary Patterns In Theological Reasoning, Par
 date: 2021-07-12T18:01:10+00:00
 author: editors
 permalink: /2021/07/12/truth-and-irony-beyond-binary-patterns-in-theological-reasoning-part-2-florian-klug/
+image: "/images/2021/07/800px-Modern_Art_Gallery.jpg"
 categories:
   - "Theology"
   - "Reviews"

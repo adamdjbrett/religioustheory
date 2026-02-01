@@ -3,6 +3,7 @@ title: "The Environmental Ethics of Pope Francis – Parsing Key Terms and Claim
 date: 2024-04-17T14:02:56+00:00
 author: editors
 permalink: /2024/04/17/the-environmental-ethics-of-pope-francis-parsing-key-terms-and-claims-in-laudato-si-thomas-massaro-s-j/
+image: "/images/2024/09/15448438025_31e8467aa3_b-1024x642.jpg"
 categories:
   - "Religion and Ecology"
 ---

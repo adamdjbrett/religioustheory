@@ -3,6 +3,7 @@ title: "Psychedelic Aesthetics And The Crises Of Liberalism – A “Critical Co
 date: 2022-03-29T19:40:35+00:00
 author: editors
 permalink: /2022/03/29/psychedelic-aesthetics-and-the-crises-of-liberalism-a-critical-conversation-with-roger-green/
+image: "/images/2022/04/800px-La_visio%CC%81n_de_%C2%ABTatutsi_Xuweri_Timaiweme%C2%BB_-_Arte_del_pueblo_wixa%CC%81rika.jpg"
 categories:
   - "Critical Conversations"
   - "Political Theology"

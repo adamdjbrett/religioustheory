@@ -3,6 +3,7 @@ title: "Tsimtsum In Life Of Pi, Part 2 (Daniel Reiser)"
 date: 2020-12-08T05:12:16+00:00
 author: editors
 permalink: /2020/12/08/tsimtsum-in-life-of-pi-part-2-daniel-reiser/
+image: "/images/2020/12/Scheme_of_Christian_Kabbalism_from_Heinrich_Khunrath_Amphiteatrum_sapientiae_aeternae_MET_DP820686-1.jpg"
 categories:
   - "Jewish Philosophy of Religion"
 ---

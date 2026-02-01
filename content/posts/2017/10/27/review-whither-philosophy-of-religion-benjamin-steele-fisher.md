@@ -3,6 +3,7 @@ title: "Review—Whither Philosophy of Religion? (Benjamin Steele-Fisher)"
 date: 2017-10-27T03:07:20+00:00
 author: Books
 permalink: /2017/10/27/review-whither-philosophy-of-religion-benjamin-steele-fisher/
+image: "/images/2017/10/wordcloud.jpg"
 categories:
   - "Reviews"
 ---

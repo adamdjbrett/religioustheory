@@ -3,6 +3,7 @@ title: "A Tainted Trophy And The Framing Of White Supremacy In America, Part 3 (
 date: 2022-11-10T04:34:35+00:00
 author: editors
 permalink: /2022/11/10/a-tainted-trophy-and-the-framing-of-white-supremacy-in-america-part-3-tink-tinker/
+image: "/images/2022/11/Indian-picture.png"
 categories:
   - "Indigenous Religions"
   - "Postcolonial Theory"

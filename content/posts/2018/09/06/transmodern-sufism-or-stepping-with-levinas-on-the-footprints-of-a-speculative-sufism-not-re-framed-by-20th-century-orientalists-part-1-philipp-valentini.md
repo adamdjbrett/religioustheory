@@ -3,6 +3,7 @@ title: "Transmodern Sufism, Or Stepping With Levinas On The Footprints Of A Spec
 date: 2018-09-06T00:35:47+00:00
 author: editors
 permalink: /2018/09/06/transmodern-sufism-or-stepping-with-levinas-on-the-footprints-of-a-speculative-sufism-not-re-framed-by-20th-century-orientalists-part-1-philipp-valentini/
+image: "/images/2018/09/dervish-ceremony.jpg"
 categories:
   - "World Religions"
   - "Reviews"

@@ -3,6 +3,7 @@ title: "Hegel Contra God – Replying To Gavin Hyman’s “New Hegel”, Part 3
 date: 2023-02-11T23:30:55+00:00
 author: editors
 permalink: /2023/02/11/hegel-contra-god-replying-to-gavin-hymans-new-hegel-part-3-rebekah-howes/
+image: "/images/2023/02/Socrates_statue_at_the_Louvre_8_April_2013-800x642.jpg"
 categories:
   - "Philosophical Theology"
   - "Philosophy of Religion"

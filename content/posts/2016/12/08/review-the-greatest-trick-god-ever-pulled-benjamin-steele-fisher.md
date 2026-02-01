@@ -3,6 +3,7 @@ title: "Review – The Greatest Trick God Ever Pulled… (Benjamin Steele-Fisher
 date: 2016-12-08T08:00:35+00:00
 author: Books
 permalink: /2016/12/08/review-the-greatest-trick-god-ever-pulled-benjamin-steele-fisher/
+image: "/images/2016/12/devil-fall.jpg"
 categories:
   - "Reviews"
 ---

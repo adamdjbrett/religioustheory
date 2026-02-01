@@ -3,6 +3,7 @@ title: "Force in Religious Thought – Carl Raschke and Victoria Kahn in Dialogu
 date: 2016-06-26T19:30:03+00:00
 author: editors
 permalink: /2016/06/26/force-in-religious-thought-carl-raschke-and-victoria-kahn-in-dialogue-part-3/
+image: "/images/2016/06/NASA-space-colony-11.jpg"
 categories:
   - "Political Theology"
   - "Religion and Economics"

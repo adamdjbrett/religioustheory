@@ -3,6 +3,7 @@ title: "Entheogens, Spirituality, And Modern Myths, Part 3 (John Cuda)"
 date: 2021-10-21T22:02:12+00:00
 author: editors
 permalink: /2021/10/21/entheogens-spirituality-and-modern-myths-part-3-john-cuda/
+image: "/images/2021/10/Screen-Shot-2021-10-21-at-9.57.51-PM-864x642.png"
 categories:
   - "New Religions"
   - "Religion and Media"

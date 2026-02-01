@@ -3,6 +3,7 @@ title: "Conference on Populism, Nationalism, and the Future of Democracy – Cal
 date: 2025-04-18T20:11:47+00:00
 author: editors
 permalink: /2025/04/18/conference-on-populism-nationalism-and-the-future-of-democracy-call-for-papers-and-presentations-conferences/
+image: "/images/2025/04/Bundesarchiv_Bild_183-1989-1106-405_Plauen_Demonstration_vor_dem_Rathaus.jpg"
 categories:
   - "Conferences"
   - "Announcements"

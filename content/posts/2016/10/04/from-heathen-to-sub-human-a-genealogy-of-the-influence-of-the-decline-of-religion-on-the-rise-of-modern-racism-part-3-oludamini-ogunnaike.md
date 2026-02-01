@@ -3,6 +3,7 @@ title: "From Heathen to Sub-Human: A Genealogy of the Influence of the Decline o
 date: 2016-10-04T03:22:37+00:00
 author: editors
 permalink: /2016/10/04/from-heathen-to-sub-human-a-genealogy-of-the-influence-of-the-decline-of-religion-on-the-rise-of-modern-racism-part-3-oludamini-ogunnaike/
+image: "/images/2016/09/Mumbett702.jpg"
 categories:
   - "Critical Race Theory"
   - "African Studies"

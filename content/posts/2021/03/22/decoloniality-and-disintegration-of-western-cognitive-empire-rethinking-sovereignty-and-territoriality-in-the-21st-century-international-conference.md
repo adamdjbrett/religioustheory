@@ -3,6 +3,7 @@ title: "Decoloniality And Disintegration Of Western Cognitive Empire – Rethink
 date: 2021-03-22T14:13:36+00:00
 author: editors
 permalink: /2021/03/22/decoloniality-and-disintegration-of-western-cognitive-empire-rethinking-sovereignty-and-territoriality-in-the-21st-century-international-conference/
+image: "/images/2021/03/Machu_Picchu_Peru.jpg"
 categories:
   - "Announcements"
   - "Conferences"

@@ -3,6 +3,7 @@ title: "Debriefing On Decoloniality – A Public Conversation, Part 1"
 date: 2021-06-15T02:55:34+00:00
 author: editors
 permalink: /2021/06/15/debriefing-on-decoloniality-a-public-conversation/
+image: "/images/2021/06/speakers_latino.jpg"
 categories:
   - "Decoloniality"
 ---

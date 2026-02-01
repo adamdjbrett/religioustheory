@@ -3,6 +3,7 @@ title: "The Re-Enchantment Of Bodies – The Transformative Power Of Charismatic
 date: 2023-11-28T16:40:43+00:00
 author: editors
 permalink: /2023/11/28/the-re-enchantment-of-bodies-the-transformative-power-of-charismatic-healings-part-1-anna-magnasco/
+image: "/images/2023/12/St_Peter_and_St_John_healing_the_cripple_1841_Wellcome_L0000122-1210x642.jpg"
 categories:
   - "Anthropology of Religion"
   - "Art Theory"

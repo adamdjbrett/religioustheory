@@ -3,6 +3,7 @@ title: "Review – Badiou Is Not Afraid of The Dark (Mason Davis)"
 date: 2017-02-02T08:00:00+00:00
 author: Books
 permalink: /2017/02/02/review-badiou-is-not-afraid-of-the-dark-mason-davis/
+image: "/images/2017/02/badiou.jpeg"
 categories:
   - "Reviews"
 ---

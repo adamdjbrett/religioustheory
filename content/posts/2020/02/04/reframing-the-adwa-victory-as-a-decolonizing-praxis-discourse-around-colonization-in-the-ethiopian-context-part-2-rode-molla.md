@@ -3,6 +3,7 @@ title: "Reframing The Adwa Victory As A Decolonizing Praxis – Discourse Around
 date: 2020-02-04T23:01:58+00:00
 author: editors
 permalink: /2020/02/04/reframing-the-adwa-victory-as-a-decolonizing-praxis-discourse-around-colonization-in-the-ethiopian-context-part-2-rode-molla/
+image: "/images/2020/02/1599px-Ethiopian_mothers_with_babies.jpg"
 categories:
   - "Postcolonial Theory"
   - "Indigenous Religions"

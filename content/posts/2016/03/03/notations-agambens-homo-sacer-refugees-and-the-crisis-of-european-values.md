@@ -3,6 +3,7 @@ title: "NOTATIONS – Agamben’s Homo Sacer, Refugees, and the Crisis of Europe
 date: 2016-03-03T17:19:55+00:00
 author: editors
 permalink: /2016/03/03/notations-agambens-homo-sacer-refugees-and-the-crisis-of-european-values/
+image: "/images/2016/03/Refugee_march_Hungary_2015-09-04_02.jpg"
 categories:
   - "Notations"
 ---

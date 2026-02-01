@@ -3,6 +3,7 @@ title: "Review – Hear No Evil, See No Evil, Speak No Evil: Negative Reactions 
 date: 2018-01-14T19:27:49+00:00
 author: Books
 permalink: /2018/01/14/review-hear-no-evil-see-no-evil-speak-no-evil-negative-reactions-to-jewish-people-pre-and-post-holocaust-madison-tarleton/
+image: "/images/2018/01/a867c350-b8ad-4896-b926-f0b71c0cb1f8.jpg"
 categories:
   - "Reviews"
 ---

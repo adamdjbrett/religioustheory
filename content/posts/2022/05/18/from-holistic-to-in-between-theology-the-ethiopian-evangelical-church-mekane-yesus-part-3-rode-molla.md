@@ -3,6 +3,7 @@ title: "From Holistic To In-Between Theology – The Ethiopian Evangelical Churc
 date: 2022-05-18T20:43:53+00:00
 author: editors
 permalink: /2022/05/18/from-holistic-to-in-between-theology-the-ethiopian-evangelical-church-mekane-yesus-part-3-rode-molla/
+image: "/images/2022/06/Tigray_Near_Yeha_Ethiopia.jpg"
 categories:
   - "Postcolonial Theory"
   - "Theology"

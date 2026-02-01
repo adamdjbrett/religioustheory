@@ -3,6 +3,7 @@ title: "Review – Carl Raschke’s Force of God Hammers Out A Political Theolog
 date: 2016-04-20T05:45:56+00:00
 author: editors
 permalink: /2016/04/20/review-carl-raschkes-force-of-god-hammers-out-a-political-theology-of-insurrection-resurrection-for-our-times/
+image: "/images/2016/04/lightning_strikes_volcano-770x425.jpg"
 categories:
   - "Reviews"
   - "Philosophy of Religion"

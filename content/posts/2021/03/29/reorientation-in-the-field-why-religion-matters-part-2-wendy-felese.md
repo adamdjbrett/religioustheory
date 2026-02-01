@@ -3,6 +3,7 @@ title: "Reorientation In The Field – Why Religion Matters, Part 2 (Wendy Feles
 date: 2021-03-29T01:57:00+00:00
 author: editors
 permalink: /2021/03/29/reorientation-in-the-field-why-religion-matters-part-2-wendy-felese/
+image: "/images/2021/03/Sikoslingmuit_Eskimo_Woman._Southern_Baffin_Island._Copper-plate_engraving_17459827988.jpg"
 categories:
   - "Indigenous Religions"
   - "Postcolonial Theory"

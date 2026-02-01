@@ -3,6 +3,7 @@ title: "Slow Journalism? Ethnography as a Means of Understanding Religious Socia
 date: 2017-10-23T16:40:32+00:00
 author: editors
 permalink: /2017/10/23/slow-journalism-ethnography-as-a-means-of-understanding-religious-social-activism-part-2-james-v-spickard/
+image: "/images/2017/10/denali-national-park-1733313_1280.uncharted-territory.jpg"
 categories:
   - "Religion and Media"
   - "Religious Studies"

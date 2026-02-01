@@ -3,6 +3,7 @@ title: "Thomas Aquinas’s Body-Soul Dualism And The Hierarchy Of Human Dignity 
 date: 2021-08-09T23:05:23+00:00
 author: editors
 permalink: /2021/08/09/thomas-aquinass-body-soul-dualism-and-the-hierarchy-of-human-dignity-in-brazil-theological-origins-of-a-nations-self-understanding-part-2-vinicius-marinho/
+image: "/images/2021/08/800px-Bororo004.jpg"
 categories:
   - "Indigenous Religions"
   - "Postcolonial Theory"

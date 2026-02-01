@@ -3,6 +3,7 @@ title: "Critical Conversations – A Conversation With Arthur Bradley On Soverei
 date: 2022-05-27T18:59:19+00:00
 author: editors
 permalink: /2022/05/27/critical-conversations-a-conversation-with-arthur-bradley-on-sovereignty-part-1/
+image: "/images/2022/06/Leviathan_-_Hobbes_Leviathan_1651_title_page_-_BL-1016x642.jpg"
 categories:
   - "Critical Conversations"
   - "Political Theology"

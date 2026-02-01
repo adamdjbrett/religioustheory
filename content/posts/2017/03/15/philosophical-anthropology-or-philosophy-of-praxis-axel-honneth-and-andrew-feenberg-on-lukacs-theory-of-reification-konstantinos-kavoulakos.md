@@ -3,6 +3,7 @@ title: "Philosophical Anthropology or Philosophy of Praxis? Axel Honneth and And
 date: 2017-03-15T18:04:08+00:00
 author: editors
 permalink: /2017/03/15/philosophical-anthropology-or-philosophy-of-praxis-axel-honneth-and-andrew-feenberg-on-lukacs-theory-of-reification-konstantinos-kavoulakos/
+image: "/images/2017/03/Lukacs-and-woman.jpg"
 categories:
   - "Critical Theory"
   - "Psychoanalysis"

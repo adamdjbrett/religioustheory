@@ -3,6 +3,7 @@ title: "The Image of God and Our Vocation of the Soil, Part 2 (Mick Pope)"
 date: 2024-05-24T20:12:53+00:00
 author: editors
 permalink: /2024/05/24/the-image-of-god-and-our-vocation-of-the-soil-part-2-mick-pope/
+image: "/images/2024/09/Thomas_Cole_-_The_Garden_of_Eden_1828-1200x642.jpg"
 categories:
   - "Uncategorized"
   - "Reviews"

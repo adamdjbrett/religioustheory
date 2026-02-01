@@ -3,6 +3,7 @@ title: "Benjamin’s Concept of History As A Source of Arendt’s Idea of Judgme
 date: 2016-08-15T05:34:31+00:00
 author: editors
 permalink: /2016/08/15/benjamins-concept-of-history-as-a-source-of-arendts-idea-of-judgment-part-2-ronald-beiner/
+image: "/images/2016/08/Thomas_Abel_Prior_-_Queen_Victoria_opening_the_1851_Universal_Exhibition_at_the_Crystal_Palace_in_London_-_Google_Art_Project.jpg"
 categories:
   - "Political Theology"
   - "Critical Conversations"

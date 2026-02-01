@@ -3,6 +3,7 @@ title: "Hanging Garlands Of Flowers On The Chains That Bind – Soft Totalitaria
 date: 2016-11-02T02:59:28+00:00
 author: editors
 permalink: /2016/11/02/hanging-garlands-of-flowers-on-the-chains-that-bind-soft-totalitarianism-and-techno-rationality-jeff-appel/
+image: "/images/2016/11/bd7ff1a1c6e460bf8e87a4fa0ee90199.jpg"
 categories:
   - "Media Theory"
 ---

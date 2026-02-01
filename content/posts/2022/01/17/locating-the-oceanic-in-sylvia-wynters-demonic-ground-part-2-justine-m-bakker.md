@@ -3,6 +3,7 @@ title: "Locating The Oceanic In Sylvia Wynter’s “Demonic Ground”, Part 2 (
 date: 2022-01-17T20:04:41+00:00
 author: editors
 permalink: /2022/01/17/locating-the-oceanic-in-sylvia-wynters-demonic-ground-part-2-justine-m-bakker/
+image: "/images/2022/01/Seabirds.png"
 categories:
   - "Critical Race Theory"
   - "African Studies"

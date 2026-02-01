@@ -3,6 +3,7 @@ title: "Review – French Perceptions of Muslim Sexuality (Trevor Wolff)"
 date: 2018-01-05T02:34:24+00:00
 author: Books
 permalink: /2018/01/05/review-french-perceptions-of-muslim-sexuality-trevor-wolff/
+image: "/images/2018/01/Ira_giotto.jpg"
 categories:
   - "Critical Theory"
   - "Reviews"

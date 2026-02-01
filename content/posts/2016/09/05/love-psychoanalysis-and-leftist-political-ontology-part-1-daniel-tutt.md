@@ -3,6 +3,7 @@ title: "Love, Psychoanalysis, and Leftist Political Ontology, Part 1 (Daniel Tut
 date: 2016-09-05T06:20:15+00:00
 author: editors
 permalink: /2016/09/05/love-psychoanalysis-and-leftist-political-ontology-part-1-daniel-tutt/
+image: "/images/2016/09/Muses.jpg"
 categories:
   - "Critical Theory"
   - "Psychoanalysis"

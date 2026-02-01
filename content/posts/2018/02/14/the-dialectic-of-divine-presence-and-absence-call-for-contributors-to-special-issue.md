@@ -3,6 +3,7 @@ title: "Call for Contributors – The Dialectic of Divine Presence and Absence"
 date: 2018-02-14T04:19:46+00:00
 author: editors
 permalink: /2018/02/14/the-dialectic-of-divine-presence-and-absence-call-for-contributors-to-special-issue/
+image: "/images/2016/02/IMG_0554.jpg"
 categories:
   - "Announcements"
   - "Critical Theory"

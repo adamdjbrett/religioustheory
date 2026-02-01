@@ -3,6 +3,7 @@ title: "Critical Conversations  – American Indian Worldview And The Twinned Co
 date: 2021-01-22T16:07:52+00:00
 author: editors
 permalink: /2021/01/22/critical-conversations-american-indian-worldview-and-the-twinned-cosmos-of-indigenous-america-transcript-barbara-alice-mann-onondawaga-bear-clan-and-tink-tinker-wazhazhe-osage-nation/
+image: "/images/2021/01/1133px-1949_Hudson_mound_builders_2831253030.jpg"
 categories:
   - "Indigenous Religions"
 ---

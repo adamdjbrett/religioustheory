@@ -3,6 +3,7 @@ title: "The Curious Whiteheadian Proclivity In Scheler’s Account Of God And Pe
 date: 2020-04-16T19:17:35+00:00
 author: editors
 permalink: /2020/04/16/the-curious-whiteheadian-proclivity-in-schelers-account-of-god-and-persons-j-edward-hackett/
+image: "/images/2020/04/Scheler_max.jpg"
 categories:
   - "Phenomenology"
   - "Philosophy of Religion"

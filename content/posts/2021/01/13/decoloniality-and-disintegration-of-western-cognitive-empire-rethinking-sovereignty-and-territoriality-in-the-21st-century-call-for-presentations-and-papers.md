@@ -3,6 +3,7 @@ title: "Call For Presentations And Proposals – Decoloniality And Disintegratio
 date: 2021-01-13T01:13:02+00:00
 author: editors
 permalink: /2021/01/13/decoloniality-and-disintegration-of-western-cognitive-empire-rethinking-sovereignty-and-territoriality-in-the-21st-century-call-for-presentations-and-papers/
+image: "/images/2021/01/1600px-Machu_Picchu__the_lost_city_of_the_inca_empire.jpg"
 categories:
   - "Announcements"
   - "Conferences"

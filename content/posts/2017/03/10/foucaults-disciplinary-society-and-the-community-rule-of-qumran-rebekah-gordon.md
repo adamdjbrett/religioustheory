@@ -3,6 +3,7 @@ title: "Foucault’s Disciplinary Society And The Community Rule Of Qumran (Rebe
 date: 2017-03-10T02:20:55+00:00
 author: editors
 permalink: /2017/03/10/foucaults-disciplinary-society-and-the-community-rule-of-qumran-rebekah-gordon/
+image: "/images/2017/03/qumran-drawing.jpg"
 categories:
   - "Theory"
   - "Critical Theory"

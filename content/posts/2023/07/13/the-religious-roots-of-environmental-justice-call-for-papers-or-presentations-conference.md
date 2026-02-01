@@ -3,6 +3,7 @@ title: "The Religious Roots Of Environmental Justice – Call For Papers Or Pres
 date: 2023-07-13T16:25:37+00:00
 author: editors
 permalink: /2023/07/13/the-religious-roots-of-environmental-justice-call-for-papers-or-presentations-conference/
+image: "/images/2023/07/Ta_Prohm_III-1024x642.jpg"
 categories:
   - "Conferences"
   - "Announcements"

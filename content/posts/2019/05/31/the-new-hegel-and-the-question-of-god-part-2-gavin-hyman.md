@@ -3,6 +3,7 @@ title: "The “New Hegel” And The Question Of God, Part 2 (Gavin Hyman)"
 date: 2019-05-31T02:03:41+00:00
 author: editors
 permalink: /2019/05/31/the-new-hegel-and-the-question-of-god-part-2-gavin-hyman/
+image: "/images/2019/05/Slavoj_Z%CC%8Ciz%CC%8Cek_2011.jpg"
 categories:
   - "Philosophy of Religion"
   - "Reviews"

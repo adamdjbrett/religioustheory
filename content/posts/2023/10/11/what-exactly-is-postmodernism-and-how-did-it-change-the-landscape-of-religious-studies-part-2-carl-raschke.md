@@ -3,6 +3,7 @@ title: "What Exactly Is Postmodernism, And How Did It Change The Landscape Of Re
 date: 2023-10-11T17:33:44+00:00
 author: editors
 permalink: /2023/10/11/what-exactly-is-postmodernism-and-how-did-it-change-the-landscape-of-religious-studies-part-2-carl-raschke/
+image: "/images/2023/09/Albert-Niemeyer-2016_Andy_Warhol-1200x642.jpg"
 categories:
   - "Philosophy of Religion"
   - "Religious Studies"

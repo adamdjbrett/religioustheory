@@ -3,6 +3,7 @@ title: "Trauma In Emmanuel Levinas’ Writing Body, Part 1 (Magdalena Sedmak)"
 date: 2023-06-15T23:29:55+00:00
 author: editors
 permalink: /2023/06/15/trauma-in-emmanuel-levinas-writing-body-part-1-magdalena-sedmak/
+image: "/images/2023/07/1024px-Hofmann_Lehrbuch_brain_gunshot-1024x642.jpg"
 categories:
   - "Psychology of Religion"
   - "Theology"

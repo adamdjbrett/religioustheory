@@ -3,6 +3,7 @@ title: "The Sacred As Bordering Practice, Part 1 (Anna-Maria Edlinger)"
 date: 2023-10-25T15:51:14+00:00
 author: editors
 permalink: /2023/10/25/the-sacred-as-bordering-practice-part-1-anna-maria-edlinger/
+image: "/images/2023/12/IMG_1797.jpeg"
 categories:
   - "Political Theology"
   - "Critical Conversations"

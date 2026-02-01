@@ -3,6 +3,7 @@ title: "From The Gift Of Mortality To The Name Of God (Jakob Helmut Deibl)"
 date: 2019-09-23T03:47:00+00:00
 author: editors
 permalink: /2019/09/23/from-the-gift-of-mortality-to-the-name-of-god-jakob-helmut-deibl/
+image: "/images/2019/09/Paolo_uccello_cacciata_dal_paradiso_terrestre_e_storie_di_caino_e_abele_1430-40_ca._09_caino_e_abele_bambini.jpg"
 categories:
   - "Theology"
   - "Philosophy of Religion"

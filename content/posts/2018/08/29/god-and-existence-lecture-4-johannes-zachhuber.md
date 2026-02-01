@@ -3,6 +3,7 @@ title: "God And Existence, Lecture 4 (Johannes Zachhuber)"
 date: 2018-08-29T17:34:34+00:00
 author: editors
 permalink: /2018/08/29/god-and-existence-lecture-4-johannes-zachhuber/
+image: "/images/2018/08/IMG_2603.jpg"
 categories:
   - "Theology"
   - "Philosophy of Religion"

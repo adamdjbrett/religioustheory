@@ -3,6 +3,7 @@ title: "Biopolitics and Vajrayana Buddhism, Part 1 (Padraic Fitzgerald)"
 date: 2016-05-27T00:43:59+00:00
 author: editors
 permalink: /2016/05/27/biopolitics-and-vajranayana-buddhism-part-1/
+image: "/images/2016/05/BuddhistprayerflagsinNepalatopstupawithBuddhaWisdomEyesbyKarnevilflickr.png"
 categories:
   - "Political Theology"
   - "World Religions"

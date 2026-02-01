@@ -3,6 +3,7 @@ title: "Review – Agamben’s Political Reading of the Trial of Jesus (Ryne Bed
 date: 2016-07-21T08:00:10+00:00
 author: Books
 permalink: /2016/07/21/review-agambens-political-reading-of-the-trial-of-jesus/
+image: "/images/2016/07/Pontius-Pilate.jpg"
 categories:
   - "Reviews"
 ---

@@ -3,6 +3,7 @@ title: "Review – The Evangelicals: The Struggle to Shape America (Rebekah Gord
 date: 2017-10-13T17:07:50+00:00
 author: Books
 permalink: /2017/10/13/review-the-evangelicals-the-struggle-to-shape-america-rebekah-gordon/
+image: "/images/2017/10/pastors-daughter.jpg"
 categories:
   - "Reviews"
   - "Critical Theory"

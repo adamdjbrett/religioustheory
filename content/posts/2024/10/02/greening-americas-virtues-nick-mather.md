@@ -3,6 +3,7 @@ title: "Greening America’s Virtues (Nick Mather)"
 date: 2024-10-02T11:59:01+00:00
 author: editors
 permalink: /2024/10/02/greening-americas-virtues-nick-mather/
+image: "/images/2024/10/Rockymountainnps_1-1210x642.jpg"
 categories:
   - "Religion and Ecology"
 ---

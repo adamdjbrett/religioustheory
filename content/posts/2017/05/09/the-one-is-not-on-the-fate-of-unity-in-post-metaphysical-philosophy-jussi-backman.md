@@ -3,6 +3,7 @@ title: "The One Is Not – On the Fate Of Unity in Post-Metaphysical Philosophy 
 date: 2017-05-09T20:06:50+00:00
 author: editors
 permalink: /2017/05/09/the-one-is-not-on-the-fate-of-unity-in-post-metaphysical-philosophy-jussi-backman/
+image: "/images/2017/05/Aristotle-metaphysics.jpg"
 categories:
   - "Metaphysics"
   - "Philosophy"

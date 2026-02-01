@@ -3,6 +3,7 @@ title: "Mischief, Idolatry, And The Demonic – Toward A Hermeneutic Of Play, Pa
 date: 2018-05-19T17:37:39+00:00
 author: editors
 permalink: /2018/05/19/mischief-idolatry-and-the-demonic-toward-a-hermeneutic-of-play-part-i-kevin-lewis/
+image: "/images/2018/05/IMG_0921-1.jpg"
 categories:
   - "Hermeneutics"
   - "Theory"

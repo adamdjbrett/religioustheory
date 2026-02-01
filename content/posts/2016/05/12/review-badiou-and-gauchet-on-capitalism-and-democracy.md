@@ -3,6 +3,7 @@ title: "Review – Badiou and Gauchet on Capitalism and Democracy"
 date: 2016-05-12T21:22:23+00:00
 author: editors
 permalink: /2016/05/12/review-badiou-and-gauchet-on-capitalism-and-democracy/
+image: "/images/2016/05/badiou-photo-thumb-large.jpg"
 categories:
   - "Philosophy"
   - "Reviews"

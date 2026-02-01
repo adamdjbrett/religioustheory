@@ -3,6 +3,7 @@ title: "“Notations” – Call for Contributors"
 date: 2018-01-01T00:14:28+00:00
 author: editors
 permalink: /2018/01/01/notations-the-european-refugee-crisis-and-more/
+image: "/images/2016/02/951986_stock-photo-music-notes-on-old-paper-sheet-to-use-for-the-background-2.jpg"
 categories:
   - "Announcements"
   - "Psychoanalysis"

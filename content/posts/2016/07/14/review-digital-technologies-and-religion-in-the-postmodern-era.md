@@ -3,6 +3,7 @@ title: "Review – Digital Technologies and Religion in the Postmodern Era (Albe
 date: 2016-07-14T11:45:56+00:00
 author: Books
 permalink: /2016/07/14/review-digital-technologies-and-religion-in-the-postmodern-era/
+image: "/images/2016/07/Internet-handshake.jpg"
 categories:
   - "Religion and Media"
   - "New Religions"

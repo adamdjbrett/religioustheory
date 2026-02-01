@@ -3,6 +3,7 @@ title: "“The End Of Cognitive Empire” (Critical Conversations)"
 date: 2020-09-09T04:32:47+00:00
 author: editors
 permalink: /2020/09/09/the-end-of-cognitive-empire-critical-conversations/
+image: "/images/2020/09/Geographica_restituta_per_globi_trientes_-_Norman_B._Leventhal_Map_Center_at_the_BPL.jpg"
 categories:
   - "Critical Conversations"
   - "Critical Theory"

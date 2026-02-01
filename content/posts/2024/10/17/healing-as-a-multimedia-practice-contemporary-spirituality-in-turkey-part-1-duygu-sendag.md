@@ -3,6 +3,7 @@ title: "Healing As A Multimedia Practice – Contemporary Spirituality In Turkey
 date: 2024-10-17T23:09:22+00:00
 author: editors
 permalink: /2024/10/17/healing-as-a-multimedia-practice-contemporary-spirituality-in-turkey-part-1-duygu-sendag/
+image: "/images/2024/09/how-art-therapy-can-help-with-depression.jpg"
 categories:
   - "Anthropology of Religion"
   - "Art Theory"

@@ -3,6 +3,7 @@ title: "Dreaming Innocence in America – Paul Tillich’s Radical Theology of L
 date: 2016-11-21T06:11:53+00:00
 author: editors
 permalink: /2016/11/21/dreaming-innocence-in-america-paul-tillichs-radical-theology-of-liberation-part-2-alan-jay-richard/
+image: "/images/2016/11/Double_vac_line_front_view.jpg"
 categories:
   - "Theology"
   - "Philosophy of Religion"

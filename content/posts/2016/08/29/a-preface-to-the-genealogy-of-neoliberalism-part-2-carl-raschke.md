@@ -3,6 +3,7 @@ title: "A Preface To The Genealogy of Neoliberalism, Part 2 (Carl Raschke)"
 date: 2016-08-29T17:47:24+00:00
 author: editors
 permalink: /2016/08/29/a-preface-to-the-genealogy-of-neoliberalism-part-2-carl-raschke/
+image: "/images/2016/08/debt-slave.jpg"
 categories:
   - "Political Theology"
   - "Critical Conversations"

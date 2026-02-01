@@ -3,6 +3,7 @@ title: "Review – Love’s Unfortunate Presence between Faith and Belief (Danie
 date: 2016-08-18T08:00:50+00:00
 author: Books
 permalink: /2016/08/18/review-loves-unfortunate-presence-between-faith-and-belief-daniel-boscaljon/
+image: "/images/2016/08/Phenomenological-Psychology.jpg"
 categories:
   - "Reviews"
 ---

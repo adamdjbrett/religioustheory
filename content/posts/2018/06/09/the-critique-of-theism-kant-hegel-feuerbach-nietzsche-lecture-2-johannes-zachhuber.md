@@ -3,6 +3,7 @@ title: "The Critique Of Theism – Kant, Hegel, Feuerbach, Nietzsche, Lecture 2 
 date: 2018-06-09T16:19:28+00:00
 author: editors
 permalink: /2018/06/09/the-critique-of-theism-kant-hegel-feuerbach-nietzsche-lecture-2-johannes-zachhuber/
+image: "/images/2018/06/IMG_0310.jpg"
 categories:
   - "Philosophy of Religion"
   - "Theology"

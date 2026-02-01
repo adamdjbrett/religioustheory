@@ -3,6 +3,7 @@ title: "Philosophy As Love – Unblocking The Road From Athens To Jerusalem, Par
 date: 2022-12-29T12:32:18+00:00
 author: editors
 permalink: /2022/12/29/philosophy-as-love-unblocking-the-road-from-athens-to-jerusalem-part-3-erik-meganck/
+image: "/images/2022/12/Rodin_The_Thinker_p1070090-800x642.jpg"
 categories:
   - "Philosophy of Religion"
   - "Philosophical Theology"

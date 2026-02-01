@@ -3,6 +3,7 @@ title: "Review – The Ethics Of Time (Matthew Clemente)"
 date: 2018-04-17T04:05:49+00:00
 author: Books
 permalink: /2018/04/17/review-the-ethics-of-time-matthew-clemente/
+image: "/images/2018/04/vasnetsov_samolet.jpg"
 categories:
   - "Philosophy of Religion"
   - "Reviews"

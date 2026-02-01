@@ -3,6 +3,7 @@ title: "Towards A New Comparative Methodology In Religious Studies (Kara Roberts
 date: 2018-09-23T23:04:41+00:00
 author: editors
 permalink: /2018/09/23/towards-a-new-comparative-methodology-in-religious-studies-kara-roberts/
+image: "/images/2018/09/IMG_0497.jpg"
 categories:
   - "Mythology"
   - "Religious Studies"

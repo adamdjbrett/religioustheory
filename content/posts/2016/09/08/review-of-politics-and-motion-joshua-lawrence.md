@@ -3,6 +3,7 @@ title: "Review – Of Politics and Motion (Joshua Lawrence)"
 date: 2016-09-08T08:00:36+00:00
 author: Books
 permalink: /2016/09/08/review-of-politics-and-motion-joshua-lawrence/
+image: "/images/2016/09/Migrant-boat.jpg"
 categories:
   - "Reviews"
 ---

@@ -3,6 +3,7 @@ title: "Modern Theology And The Dialectic Of God, Part 3 (Kelly Maeshiro)"
 date: 2021-02-22T16:53:48+00:00
 author: editors
 permalink: /2021/02/22/modern-theology-and-the-dialectic-of-god-part-3-kelly-maeshiro/
+image: "/images/2021/03/IMG_7446-1.jpeg"
 categories:
   - "Theology"
   - "Psychology of Religion"

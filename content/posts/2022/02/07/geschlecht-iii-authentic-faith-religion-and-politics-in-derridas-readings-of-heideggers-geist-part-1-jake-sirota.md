@@ -3,6 +3,7 @@ title: "Geschlecht III – Authentic Faith, Religion, And Politics In Derrida’
 date: 2022-02-07T22:17:31+00:00
 author: editors
 permalink: /2022/02/07/geschlecht-iii-authentic-faith-religion-and-politics-in-derridas-readings-of-heideggers-geist-part-1-jake-sirota/
+image: "/images/2022/02/Abraham-Abulafia_artwork.jpg"
 categories:
   - "Philosophy of Religion"
   - "Mythology"

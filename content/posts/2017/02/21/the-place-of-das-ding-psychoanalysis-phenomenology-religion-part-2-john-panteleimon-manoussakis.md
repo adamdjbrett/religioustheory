@@ -3,6 +3,7 @@ title: "The Place Of Das Ding – Psychoanalysis, Phenomenology, Religion, Part 
 date: 2017-02-21T04:28:03+00:00
 author: editors
 permalink: /2017/02/21/the-place-of-das-ding-psychoanalysis-phenomenology-religion-part-2-john-panteleimon-manoussakis/
+image: "/images/2017/02/The-Thing-Max-Res.jpg"
 categories:
   - "Philosophy"
   - "Political Theology"

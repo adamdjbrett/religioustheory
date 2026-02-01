@@ -3,6 +3,7 @@ title: "Tsimtsum In Life Of Pi, Part 4 (Daniel Reiser)"
 date: 2020-12-22T05:53:55+00:00
 author: editors
 permalink: /2020/12/22/tsimtsum-in-life-of-pi-part-4-daniel-reiser/
+image: "/images/2020/12/Albert_Bierstadt_Farallon_Island_1887_Oil_on_Canvas.jpg"
 categories:
   - "Jewish Philosophy of Religion"
 ---

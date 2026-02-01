@@ -3,6 +3,7 @@ title: "Review – Reframing Schelling (Rolando Rodriguez)"
 date: 2017-11-04T02:51:21+00:00
 author: Books
 permalink: /2017/11/04/review-reframing-schelling-rolando-rodriguez/
+image: "/images/2017/11/220px-Nb_pinacoteca_stieler_friedrich_wilhelm_joseph_von_schelling.jpg"
 categories:
   - "Reviews"
   - "Philosophy of Religion"

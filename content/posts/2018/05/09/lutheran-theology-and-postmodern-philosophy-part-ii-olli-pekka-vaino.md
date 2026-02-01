@@ -3,6 +3,7 @@ title: "Lutheran Theology and Postmodern Philosophy, Part II (Olli-Pekka Vaino)"
 date: 2018-05-09T07:22:26+00:00
 author: editors
 permalink: /2018/05/09/lutheran-theology-and-postmodern-philosophy-part-ii-olli-pekka-vaino/
+image: "/images/2018/05/IMG_0946.jpg"
 categories:
   - "Lutheran Theology"
   - "Philosophy of Religion"

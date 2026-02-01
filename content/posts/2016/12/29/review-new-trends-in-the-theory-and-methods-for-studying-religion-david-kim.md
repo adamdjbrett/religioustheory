@@ -3,6 +3,7 @@ title: "Review – New Trends In The Theory And Methods For Studying Religion (D
 date: 2016-12-29T18:36:39+00:00
 author: editors
 permalink: /2016/12/29/review-new-trends-in-the-theory-and-methods-for-studying-religion-david-kim/
+image: "/images/2016/12/clock.jpg"
 categories:
   - "Reviews"
   - "World Religions"

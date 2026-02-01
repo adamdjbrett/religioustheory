@@ -3,6 +3,7 @@ title: "Speaking (Or Not Speaking) Of God – Call For Proposals"
 date: 2017-05-03T17:07:06+00:00
 author: editors
 permalink: /2017/05/03/speaking-or-not-speaking-of-god-call-for-proposals2/
+image: "/images/2017/05/IMG_1275.jpg"
 categories:
   - "Conferences"
 ---

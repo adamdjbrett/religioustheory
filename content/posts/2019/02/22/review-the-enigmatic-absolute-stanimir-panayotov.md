@@ -3,6 +3,7 @@ title: "Review – The Enigmatic Absolute (Stanimir Panayotov)"
 date: 2019-02-22T02:44:30+00:00
 author: Books
 permalink: /2019/02/22/review-the-enigmatic-absolute-stanimir-panayotov/
+image: "/images/2019/02/dewang-gupta-636342-unsplash.jpg"
 categories:
   - "Reviews"
 ---

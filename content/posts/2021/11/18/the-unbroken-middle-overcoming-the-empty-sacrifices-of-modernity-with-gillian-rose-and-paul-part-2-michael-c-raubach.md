@@ -3,6 +3,7 @@ title: "The Unbroken Middle: Overcoming The Empty Sacrifices Of Modernity With G
 date: 2021-11-18T15:52:31+00:00
 author: editors
 permalink: /2021/11/18/the-unbroken-middle-overcoming-the-empty-sacrifices-of-modernity-with-gillian-rose-and-paul-part-2-michael-c-raubach/
+image: "/images/2021/11/Abrahams_Sacrifice_The_Sacrifice_of_Isaac_Met_DP888579-1119x642.jpg"
 categories:
   - "Philosophy of Religion"
 ---

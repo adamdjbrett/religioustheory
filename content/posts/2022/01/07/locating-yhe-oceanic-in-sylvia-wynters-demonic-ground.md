@@ -3,6 +3,7 @@ title: "Locating The Oceanic in Sylvia Wynter’s “Demonic Ground”, Part 1 (
 date: 2022-01-07T19:38:39+00:00
 author: editors
 permalink: /2022/01/07/locating-yhe-oceanic-in-sylvia-wynters-demonic-ground/
+image: "/images/2022/01/Irish-ruins-1210x642.jpg"
 categories:
   - "Critical Race Theory"
 ---

@@ -3,6 +3,7 @@ title: "Reorientation In The Field – Why Religion Matters, Part 1 (Wendy Feles
 date: 2021-03-15T04:40:52+00:00
 author: editors
 permalink: /2021/03/15/reorientation-in-the-field-why-religion-matters-part-1-wendy-felese/
+image: "/images/2021/03/Inuit-Kleidung_1.jpg"
 categories:
   - "Indigenous Religions"
   - "Postcolonial Theory"

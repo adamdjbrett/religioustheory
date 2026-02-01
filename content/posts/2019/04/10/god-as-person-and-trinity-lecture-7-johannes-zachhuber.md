@@ -3,6 +3,7 @@ title: "God As Person and Trinity, Lecture 7 (Johannes Zachhuber)"
 date: 2019-04-10T10:23:29+00:00
 author: editors
 permalink: /2019/04/10/god-as-person-and-trinity-lecture-7-johannes-zachhuber/
+image: "/images/2019/04/800px-Holy_Trinity_Column_-_top.jpg"
 categories:
   - "Theology"
   - "Philosophy of Religion"

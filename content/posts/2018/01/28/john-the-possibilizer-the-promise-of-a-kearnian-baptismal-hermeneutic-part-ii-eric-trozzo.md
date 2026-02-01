@@ -3,6 +3,7 @@ title: "John the Possibilizer: The Promise of a Kearnian Baptismal Hermeneutic, 
 date: 2018-01-28T23:44:10+00:00
 author: editors
 permalink: /2018/01/28/john-the-possibilizer-the-promise-of-a-kearnian-baptismal-hermeneutic-part-ii-eric-trozzo/
+image: "/images/2018/01/24054189.a75190ba.640.jpg"
 categories:
   - "Philosophy of Religion"
   - "Religious Studies"

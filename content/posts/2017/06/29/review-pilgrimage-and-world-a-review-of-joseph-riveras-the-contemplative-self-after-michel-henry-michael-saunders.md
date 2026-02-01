@@ -3,6 +3,7 @@ title: "Review – The Contemplative Self after Michel Henry (Michael Saunders)"
 date: 2017-06-29T00:04:42+00:00
 author: Books
 permalink: /2017/06/29/review-pilgrimage-and-world-a-review-of-joseph-riveras-the-contemplative-self-after-michel-henry-michael-saunders/
+image: "/images/2017/06/t-henry.jpg"
 categories:
   - "Reviews"
 ---

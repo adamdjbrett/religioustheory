@@ -3,6 +3,7 @@ title: "Rapture Music – Intensity And Eschatology Within Christian Revival Mov
 date: 2022-07-25T03:10:05+00:00
 author: editors
 permalink: /2022/07/25/rapture-music-intensity-and-eschatology-within-christian-revival-movements-part-3-fraser-macdonald/
+image: "/images/2022/08/worship-band.png"
 categories:
   - "Anthropology of Religion"
   - "Art Theory"

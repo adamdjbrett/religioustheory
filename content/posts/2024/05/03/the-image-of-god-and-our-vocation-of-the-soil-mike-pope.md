@@ -3,6 +3,7 @@ title: "The Image of God and Our Vocation of the Soil, Part 1 (Mick Pope)"
 date: 2024-05-03T22:51:43+00:00
 author: editors
 permalink: /2024/05/03/the-image-of-god-and-our-vocation-of-the-soil-mike-pope/
+image: "/images/2024/09/Eckelrade-wegkruis_Linderweg-Eckelraderweg.jpg"
 categories:
   - "Religion and Ecology"
 ---

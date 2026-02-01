@@ -3,6 +3,7 @@ title: "What Do We Mean By “Decoloniality”? A Discussion, Part 2"
 date: 2021-05-03T17:11:59+00:00
 author: editors
 permalink: /2021/05/03/what-do-we-mean-by-decoloniality-a-discussion-part-2/
+image: "/images/2021/05/800px-La_conquista_del_Colorado.jpg"
 categories:
   - "Decoloniality"
 ---

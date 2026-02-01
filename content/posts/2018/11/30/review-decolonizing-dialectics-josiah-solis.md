@@ -3,6 +3,7 @@ title: "Review – Decolonizing Dialectics (Josiah Solis)"
 date: 2018-11-30T12:46:04+00:00
 author: editors
 permalink: /2018/11/30/review-decolonizing-dialectics-josiah-solis/
+image: "/images/2018/12/IMG_3597.jpeg"
 categories:
   - "Reviews"
 ---

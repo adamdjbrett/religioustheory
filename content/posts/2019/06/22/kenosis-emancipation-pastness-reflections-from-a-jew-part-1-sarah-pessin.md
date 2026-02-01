@@ -3,6 +3,7 @@ title: "Kenosis, Emancipation, Pastness – Reflections From A Jew, Part 1 (Sara
 date: 2019-06-22T15:41:21+00:00
 author: editors
 permalink: /2019/06/22/kenosis-emancipation-pastness-reflections-from-a-jew-part-1-sarah-pessin/
+image: "/images/2019/06/Jewish-woman-free-image.jpg"
 categories:
   - "Interfaith Conversations"
 ---

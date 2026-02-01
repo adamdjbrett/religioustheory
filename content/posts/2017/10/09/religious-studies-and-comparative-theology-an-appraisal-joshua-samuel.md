@@ -3,6 +3,7 @@ title: "Religious Studies and Comparative Theology – An Appraisal (Joshua Samu
 date: 2017-10-09T02:29:56+00:00
 author: editors
 permalink: /2017/10/09/religious-studies-and-comparative-theology-an-appraisal-joshua-samuel/
+image: "/images/2017/10/pdr.jpg"
 categories:
   - "Religious Studies"
   - "Theology"

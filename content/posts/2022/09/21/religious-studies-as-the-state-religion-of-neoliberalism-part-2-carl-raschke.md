@@ -3,6 +3,7 @@ title: "Religious Studies As The “State Religion” Of Neoliberalism, Part 2 (
 date: 2022-09-21T20:38:40+00:00
 author: editors
 permalink: /2022/09/21/religious-studies-as-the-state-religion-of-neoliberalism-part-2-carl-raschke/
+image: "/images/2022/10/Isabella_Whiteford-831x642.jpg"
 categories:
   - "Neoliberalism and Religion"
 ---

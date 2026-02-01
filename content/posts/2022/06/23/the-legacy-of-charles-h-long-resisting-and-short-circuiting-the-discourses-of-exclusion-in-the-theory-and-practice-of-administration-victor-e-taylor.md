@@ -3,6 +3,7 @@ title: "The Legacy Of Charles H. Long – Resisting and Short-Circuiting the Dis
 date: 2022-06-23T21:34:57+00:00
 author: editors
 permalink: /2022/06/23/the-legacy-of-charles-h-long-resisting-and-short-circuiting-the-discourses-of-exclusion-in-the-theory-and-practice-of-administration-victor-e-taylor/
+image: "/images/2022/06/Charles-H.-Long.png"
 categories:
   - "Religious Studies"
   - "Religion and Media"

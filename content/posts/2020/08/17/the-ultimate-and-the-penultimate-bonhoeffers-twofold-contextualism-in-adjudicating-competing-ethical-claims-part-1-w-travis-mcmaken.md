@@ -3,6 +3,7 @@ title: "The Ultimate And The Penultimate – Bonhoeffer’s Twofold Contextualis
 date: 2020-08-17T20:20:33+00:00
 author: editors
 permalink: /2020/08/17/the-ultimate-and-the-penultimate-bonhoeffers-twofold-contextualism-in-adjudicating-competing-ethical-claims-part-1-w-travis-mcmaken/
+image: "/images/2020/08/Dietrich_Bonhoeffer_und_Wilhelm_Rott_um_1938.jpg"
 categories:
   - "Theological Ethics"
   - "Announcements"

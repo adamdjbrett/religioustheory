@@ -3,6 +3,7 @@ title: "The Vertical Form – The Iconological Dimension in 20th Century Russian
 date: 2018-03-31T01:30:21+00:00
 author: editors
 permalink: /2018/03/31/the-vertical-form-iconological-dimension-in-20th-century-russian-religious-aesthetics-and-literary-criticism-part-ii-oleg-komkov/
+image: "/images/2018/03/11932077953_0f5e07d6f2_b.jpg"
 categories:
   - "Aesthetics"
   - "Philosophy of Religion"

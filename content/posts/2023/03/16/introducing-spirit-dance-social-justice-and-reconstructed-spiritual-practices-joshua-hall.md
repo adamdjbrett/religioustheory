@@ -3,6 +3,7 @@ title: "Introducing Spirit/Dance – Social Justice And Reconstructed Spiritual 
 date: 2023-03-16T03:14:11+00:00
 author: editors
 permalink: /2023/03/16/introducing-spirit-dance-social-justice-and-reconstructed-spiritual-practices-joshua-hall/
+image: "/images/2023/04/800px-Volute_krater_wedding_purifying_B_Lucania_Roccanova_Painter_350-325_BC_Prague_NM-H10_4759_151621.jpg"
 categories:
   - "Indigenous Religions"
   - "Postcolonial Theory"

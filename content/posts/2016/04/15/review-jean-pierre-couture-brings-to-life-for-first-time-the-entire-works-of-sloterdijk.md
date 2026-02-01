@@ -3,6 +3,7 @@ title: "Review – Jean-Pierre Couture Brings To Life The Ongoing Oeuvre of Pete
 date: 2016-04-15T15:15:37+00:00
 author: editors
 permalink: /2016/04/15/review-jean-pierre-couture-brings-to-life-for-first-time-the-entire-works-of-sloterdijk/
+image: "/images/2016/04/open_no09_djong_02_walkingcity.jpg"
 categories:
   - "Reviews"
 ---

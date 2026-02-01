@@ -3,6 +3,7 @@ title: "Difficult Discussions – Christian Evangelicalism And Critical Race The
 date: 2021-07-26T21:38:31+00:00
 author: editors
 permalink: /2021/07/26/difficult-discussions-christian-evangelicalism-and-critical-race-theory-announcement/
+image: "/images/2021/07/DD-l-709x642.png"
 categories:
   - "Announcements"
   - "Difficult Discussions"

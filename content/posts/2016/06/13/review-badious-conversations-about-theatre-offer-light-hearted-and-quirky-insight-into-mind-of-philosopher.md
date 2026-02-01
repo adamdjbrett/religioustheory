@@ -3,6 +3,7 @@ title: "Review – Badiou’s Conversations About Theatre Offer Light-Hearted An
 date: 2016-06-13T03:19:28+00:00
 author: editors
 permalink: /2016/06/13/review-badious-conversations-about-theatre-offer-light-hearted-and-quirky-insight-into-mind-of-philosopher/
+image: "/images/2016/06/dec_18_the-tank-robots_0108.jpg"
 categories:
   - "Reviews"
   - "Uncategorized"

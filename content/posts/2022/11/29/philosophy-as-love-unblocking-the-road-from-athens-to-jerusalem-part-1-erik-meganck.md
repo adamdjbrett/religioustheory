@@ -3,6 +3,7 @@ title: "Philosophy As Love – Unblocking The Road From Athens To Jerusalem, Par
 date: 2022-11-29T11:57:41+00:00
 author: editors
 permalink: /2022/11/29/philosophy-as-love-unblocking-the-road-from-athens-to-jerusalem-part-1-erik-meganck/
+image: "/images/2022/12/1600px-Platos_symposium_Met_DP888791-1200x642.jpg"
 categories:
   - "Philosophy of Religion"
   - "Lutheran Theology"
