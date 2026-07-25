@@ -18,7 +18,7 @@ categories:
 
 **Submission deadline for proposals:** Friday, September 15, 2023
 
-#### **[Queries](mailto:carl.raschke@du.edu)**
+#### **[Queries](mailto:carl.raschke@jcrt.org)**
 
 ## Call for Papers or Presentations
 
